@@ -1,0 +1,709 @@
+text,intent,clean_text
+Cho mình hỏi Xin chào?,greeting,cho minh hoi xin chao
+Mình muốn biết Xin chào?,greeting,minh muon biet xin chao
+Bạn có thể cho mình biết Xin chào nếu có thể.,greeting,ban co the cho minh biet xin chao neu co the
+Cho mình hỏi Xin chào giúp mình nhé.,greeting,cho minh hoi xin chao giup minh nhe
+Xin chào,greeting,xin chao
+Xin hỏi Xin chào?,greeting,xin hoi xin chao
+Xin hỏi Xin chào được không?,greeting,xin hoi xin chao duoc khong
+Xin hỏi Xin chào nếu có thể.,greeting,xin hoi xin chao neu co the
+Bạn có thể cho mình biết Xin chào?,greeting,ban co the cho minh biet xin chao
+Mình muốn biết Chào bạn giúp mình nhé.,greeting,minh muon biet chao ban giup minh nhe
+Xin hỏi Chào bạn?,greeting,xin hoi chao ban
+Chào bạn,greeting,chao ban
+Bạn có thể cho mình biết Chào bạn giúp mình nhé.,greeting,ban co the cho minh biet chao ban giup minh nhe
+Bạn có thể cho mình biết Chào bạn nếu có thể.,greeting,ban co the cho minh biet chao ban neu co the
+Cho mình hỏi Chào bạn được không?,greeting,cho minh hoi chao ban duoc khong
+Bạn có thể cho mình biết Chào bạn?,greeting,ban co the cho minh biet chao ban
+Xin hỏi Chào bạn được không?,greeting,xin hoi chao ban duoc khong
+Mình muốn biết Chào shop được không?,greeting,minh muon biet chao shop duoc khong
+Bạn có thể cho mình biết Chào shop?,greeting,ban co the cho minh biet chao shop
+Bạn có thể cho mình biết Chào shop được không?,greeting,ban co the cho minh biet chao shop duoc khong
+Cho mình hỏi Chào shop được không?,greeting,cho minh hoi chao shop duoc khong
+Mình muốn biết Chào shop?,greeting,minh muon biet chao shop
+Mình muốn biết Chào shop giúp mình nhé.,greeting,minh muon biet chao shop giup minh nhe
+Xin hỏi Chào shop được không?,greeting,xin hoi chao shop duoc khong
+Chào shop,greeting,chao shop
+Bạn có thể cho mình biết Chào shop nếu có thể.,greeting,ban co the cho minh biet chao shop neu co the
+Hello,greeting,hello
+Xin hỏi Hello?,greeting,xin hoi hello
+Bạn có thể cho mình biết Hello được không?,greeting,ban co the cho minh biet hello duoc khong
+Mình muốn biết Hello nếu có thể.,greeting,minh muon biet hello neu co the
+Mình muốn biết Hello giúp mình nhé.,greeting,minh muon biet hello giup minh nhe
+Cho mình hỏi Hello được không?,greeting,cho minh hoi hello duoc khong
+Bạn có thể cho mình biết Hello giúp mình nhé.,greeting,ban co the cho minh biet hello giup minh nhe
+Bạn có thể cho mình biết Hello?,greeting,ban co the cho minh biet hello
+Hi,greeting,hi
+Mình muốn biết Hi?,greeting,minh muon biet hi
+Cho mình hỏi Hi giúp mình nhé.,greeting,cho minh hoi hi giup minh nhe
+Bạn có thể cho mình biết Hi?,greeting,ban co the cho minh biet hi
+Cho mình hỏi Hi nếu có thể.,greeting,cho minh hoi hi neu co the
+Xin hỏi Hi giúp mình nhé.,greeting,xin hoi hi giup minh nhe
+Mình muốn biết Hi giúp mình nhé.,greeting,minh muon biet hi giup minh nhe
+Cho mình hỏi Có ai ở đây không?,greeting,cho minh hoi co ai o day khong
+Bạn có thể cho mình biết Có ai ở đây không được không?,greeting,ban co the cho minh biet co ai o day khong duoc khong
+Cho mình hỏi Có ai ở đây không được không?,greeting,cho minh hoi co ai o day khong duoc khong
+Có ai ở đây không,greeting,co ai o day khong
+Cho mình hỏi Có ai ở đây không giúp mình nhé.,greeting,cho minh hoi co ai o day khong giup minh nhe
+Bạn có thể cho mình biết Có ai ở đây không giúp mình nhé.,greeting,ban co the cho minh biet co ai o day khong giup minh nhe
+Mình muốn biết Có ai ở đây không nếu có thể.,greeting,minh muon biet co ai o day khong neu co the
+Shop ơi,greeting,shop oi
+Bạn có thể cho mình biết Shop ơi giúp mình nhé.,greeting,ban co the cho minh biet shop oi giup minh nhe
+Xin hỏi Shop ơi nếu có thể.,greeting,xin hoi shop oi neu co the
+Mình muốn biết Shop ơi nếu có thể.,greeting,minh muon biet shop oi neu co the
+Cho mình hỏi Shop ơi nếu có thể.,greeting,cho minh hoi shop oi neu co the
+Xin hỏi Shop ơi giúp mình nhé.,greeting,xin hoi shop oi giup minh nhe
+Xin hỏi Chào buổi sáng được không?,greeting,xin hoi chao buoi sang duoc khong
+Xin hỏi Chào buổi sáng?,greeting,xin hoi chao buoi sang
+Xin hỏi Chào buổi sáng nếu có thể.,greeting,xin hoi chao buoi sang neu co the
+Mình muốn biết Chào buổi sáng?,greeting,minh muon biet chao buoi sang
+Xin hỏi Chào buổi sáng giúp mình nhé.,greeting,xin hoi chao buoi sang giup minh nhe
+Mình muốn biết Chào buổi sáng nếu có thể.,greeting,minh muon biet chao buoi sang neu co the
+Cho mình hỏi Chào buổi sáng nếu có thể.,greeting,cho minh hoi chao buoi sang neu co the
+Chào buổi sáng,greeting,chao buoi sang
+Bạn có thể cho mình biết Chào buổi sáng giúp mình nhé.,greeting,ban co the cho minh biet chao buoi sang giup minh nhe
+Bạn có thể cho mình biết Chào buổi chiều nếu có thể.,greeting,ban co the cho minh biet chao buoi chieu neu co the
+Chào buổi chiều,greeting,chao buoi chieu
+Cho mình hỏi Chào buổi chiều?,greeting,cho minh hoi chao buoi chieu
+Xin hỏi Chào buổi chiều được không?,greeting,xin hoi chao buoi chieu duoc khong
+Bạn có thể cho mình biết Chào buổi chiều giúp mình nhé.,greeting,ban co the cho minh biet chao buoi chieu giup minh nhe
+Xin hỏi Chào buổi chiều nếu có thể.,greeting,xin hoi chao buoi chieu neu co the
+Bạn có thể cho mình biết Chào buổi chiều?,greeting,ban co the cho minh biet chao buoi chieu
+Mình muốn biết Chào buổi chiều?,greeting,minh muon biet chao buoi chieu
+Bạn có thể cho mình biết Rất vui được gặp bạn giúp mình nhé.,greeting,ban co the cho minh biet rat vui duoc gap ban giup minh nhe
+Bạn có thể cho mình biết Rất vui được gặp bạn được không?,greeting,ban co the cho minh biet rat vui duoc gap ban duoc khong
+Rất vui được gặp bạn,greeting,rat vui duoc gap ban
+Mình muốn biết Rất vui được gặp bạn nếu có thể.,greeting,minh muon biet rat vui duoc gap ban neu co the
+Mình muốn biết Rất vui được gặp bạn?,greeting,minh muon biet rat vui duoc gap ban
+Mình muốn biết Rất vui được gặp bạn được không?,greeting,minh muon biet rat vui duoc gap ban duoc khong
+Cho mình hỏi Rất vui được gặp bạn được không?,greeting,cho minh hoi rat vui duoc gap ban duoc khong
+Bạn có thể cho mình biết Shop có rảnh không nếu có thể.,greeting,ban co the cho minh biet shop co ranh khong neu co the
+Shop có rảnh không,greeting,shop co ranh khong
+Cho mình hỏi Shop có rảnh không giúp mình nhé.,greeting,cho minh hoi shop co ranh khong giup minh nhe
+Cho mình hỏi Shop có rảnh không nếu có thể.,greeting,cho minh hoi shop co ranh khong neu co the
+Bạn có thể cho mình biết Shop có rảnh không được không?,greeting,ban co the cho minh biet shop co ranh khong duoc khong
+Mình muốn biết Shop có rảnh không được không?,greeting,minh muon biet shop co ranh khong duoc khong
+Cho mình hỏi Shop có rảnh không được không?,greeting,cho minh hoi shop co ranh khong duoc khong
+Xin hỏi Shop có rảnh không được không?,greeting,xin hoi shop co ranh khong duoc khong
+Mình muốn biết Ê bạn nếu có thể.,greeting,minh muon biet e ban neu co the
+Cho mình hỏi Ê bạn?,greeting,cho minh hoi e ban
+Cho mình hỏi Ê bạn giúp mình nhé.,greeting,cho minh hoi e ban giup minh nhe
+Bạn có thể cho mình biết Ê bạn giúp mình nhé.,greeting,ban co the cho minh biet e ban giup minh nhe
+Ê bạn,greeting,e ban
+Xin hỏi Ê bạn nếu có thể.,greeting,xin hoi e ban neu co the
+Bạn có thể cho mình biết Ê bạn được không?,greeting,ban co the cho minh biet e ban duoc khong
+Mình muốn biết Ê bạn giúp mình nhé.,greeting,minh muon biet e ban giup minh nhe
+Cho mình hỏi Chào cậu nếu có thể.,greeting,cho minh hoi chao cau neu co the
+Xin hỏi Chào cậu được không?,greeting,xin hoi chao cau duoc khong
+Mình muốn biết Chào cậu?,greeting,minh muon biet chao cau
+Chào cậu,greeting,chao cau
+Cho mình hỏi Chào cậu?,greeting,cho minh hoi chao cau
+Mình muốn biết Chào cậu được không?,greeting,minh muon biet chao cau duoc khong
+Cho mình hỏi Chào cậu giúp mình nhé.,greeting,cho minh hoi chao cau giup minh nhe
+Cho mình hỏi Chào cậu được không?,greeting,cho minh hoi chao cau duoc khong
+Bạn có thể cho mình biết Hey giúp mình nhé.,greeting,ban co the cho minh biet hey giup minh nhe
+Xin hỏi Hey được không?,greeting,xin hoi hey duoc khong
+Mình muốn biết Hey nếu có thể.,greeting,minh muon biet hey neu co the
+Mình muốn biết Hey giúp mình nhé.,greeting,minh muon biet hey giup minh nhe
+Bạn có thể cho mình biết Hey?,greeting,ban co the cho minh biet hey
+Xin hỏi Hey nếu có thể.,greeting,xin hoi hey neu co the
+Hey,greeting,hey
+Cho mình hỏi Hey giúp mình nhé.,greeting,cho minh hoi hey giup minh nhe
+Mình muốn biết Shop ơi có online không nếu có thể.,greeting,minh muon biet shop oi co online khong neu co the
+Mình muốn biết Shop ơi có online không giúp mình nhé.,greeting,minh muon biet shop oi co online khong giup minh nhe
+Bạn có thể cho mình biết Shop ơi có online không giúp mình nhé.,greeting,ban co the cho minh biet shop oi co online khong giup minh nhe
+Xin hỏi Shop ơi có online không giúp mình nhé.,greeting,xin hoi shop oi co online khong giup minh nhe
+Mình muốn biết Shop ơi có online không được không?,greeting,minh muon biet shop oi co online khong duoc khong
+Xin hỏi Shop ơi có online không?,greeting,xin hoi shop oi co online khong
+Shop ơi có online không,greeting,shop oi co online khong
+Xin phép hỏi chút,greeting,xin phep hoi chut
+Xin hỏi Xin phép hỏi chút nếu có thể.,greeting,xin hoi xin phep hoi chut neu co the
+Bạn có thể cho mình biết Xin phép hỏi chút giúp mình nhé.,greeting,ban co the cho minh biet xin phep hoi chut giup minh nhe
+Xin hỏi Xin phép hỏi chút giúp mình nhé.,greeting,xin hoi xin phep hoi chut giup minh nhe
+Bạn có thể cho mình biết Xin phép hỏi chút được không?,greeting,ban co the cho minh biet xin phep hoi chut duoc khong
+Bạn có thể cho mình biết Xin phép hỏi chút nếu có thể.,greeting,ban co the cho minh biet xin phep hoi chut neu co the
+Mình muốn biết Xin phép hỏi chút nếu có thể.,greeting,minh muon biet xin phep hoi chut neu co the
+Cho mình hỏi Xin phép hỏi chút được không?,greeting,cho minh hoi xin phep hoi chut duoc khong
+Mình muốn biết Cho mình hỏi?,greeting,minh muon biet cho minh hoi
+Cho mình hỏi Cho mình hỏi?,greeting,cho minh hoi cho minh hoi
+Xin hỏi Cho mình hỏi giúp mình nhé.,greeting,xin hoi cho minh hoi giup minh nhe
+Mình muốn biết Cho mình hỏi nếu có thể.,greeting,minh muon biet cho minh hoi neu co the
+Xin hỏi Cho mình hỏi nếu có thể.,greeting,xin hoi cho minh hoi neu co the
+Cho mình hỏi,greeting,cho minh hoi
+Bạn có thể cho mình biết Cho mình hỏi giúp mình nhé.,greeting,ban co the cho minh biet cho minh hoi giup minh nhe
+Mình muốn biết Tôi muốn xem vòng tay nếu có thể.,find_product,minh muon biet toi muon xem vong tay neu co the
+Mình muốn biết Tôi muốn xem vòng tay giúp mình nhé.,find_product,minh muon biet toi muon xem vong tay giup minh nhe
+Xin hỏi Tôi muốn xem vòng tay nếu có thể.,find_product,xin hoi toi muon xem vong tay neu co the
+Bạn có thể cho mình biết Tôi muốn xem vòng tay được không?,find_product,ban co the cho minh biet toi muon xem vong tay duoc khong
+Cho mình hỏi Tôi muốn xem vòng tay giúp mình nhé.,find_product,cho minh hoi toi muon xem vong tay giup minh nhe
+Tôi muốn xem vòng tay,find_product,toi muon xem vong tay
+Bạn có thể cho mình biết Tôi muốn xem vòng tay nếu có thể.,find_product,ban co the cho minh biet toi muon xem vong tay neu co the
+Shop có vòng tay không,find_product,shop co vong tay khong
+Mình muốn biết Shop có vòng tay không nếu có thể.,find_product,minh muon biet shop co vong tay khong neu co the
+Cho mình hỏi Shop có vòng tay không nếu có thể.,find_product,cho minh hoi shop co vong tay khong neu co the
+Xin hỏi Shop có vòng tay không?,find_product,xin hoi shop co vong tay khong
+Mình muốn biết Shop có vòng tay không được không?,find_product,minh muon biet shop co vong tay khong duoc khong
+Bạn có thể cho mình biết Shop có vòng tay không nếu có thể.,find_product,ban co the cho minh biet shop co vong tay khong neu co the
+Bạn có thể cho mình biết Shop có vòng tay không?,find_product,ban co the cho minh biet shop co vong tay khong
+Bạn có thể cho mình biết Cho xem nhẫn bạc nếu có thể.,find_product,ban co the cho minh biet cho xem nhan bac neu co the
+Bạn có thể cho mình biết Cho xem nhẫn bạc được không?,find_product,ban co the cho minh biet cho xem nhan bac duoc khong
+Xin hỏi Cho xem nhẫn bạc?,find_product,xin hoi cho xem nhan bac
+Cho mình hỏi Cho xem nhẫn bạc được không?,find_product,cho minh hoi cho xem nhan bac duoc khong
+Cho mình hỏi Cho xem nhẫn bạc?,find_product,cho minh hoi cho xem nhan bac
+Cho xem nhẫn bạc,find_product,cho xem nhan bac
+Cho mình hỏi Cho xem nhẫn bạc nếu có thể.,find_product,cho minh hoi cho xem nhan bac neu co the
+Mình muốn biết Cho xem nhẫn bạc nếu có thể.,find_product,minh muon biet cho xem nhan bac neu co the
+Xin hỏi Cho xem nhẫn bạc giúp mình nhé.,find_product,xin hoi cho xem nhan bac giup minh nhe
+Bạn có thể cho mình biết Tôi cần tìm món quà lưu niệm?,find_product,ban co the cho minh biet toi can tim mon qua luu niem
+Cho mình hỏi Tôi cần tìm tặng phẩm lưu niệm được không?,find_product,cho minh hoi toi can tim tang pham luu niem duoc khong
+Mình muốn biết Tôi cần tìm tặng phẩm lưu niệm giúp mình nhé.,find_product,minh muon biet toi can tim tang pham luu niem giup minh nhe
+Tôi cần tìm quà lưu niệm,find_product,toi can tim qua luu niem
+Xin hỏi Tôi cần tìm tặng phẩm lưu niệm?,find_product,xin hoi toi can tim tang pham luu niem
+Bạn có thể cho mình biết Tôi cần tìm quà tặng lưu niệm nếu có thể.,find_product,ban co the cho minh biet toi can tim qua tang luu niem neu co the
+Cho mình hỏi Tôi cần tìm tặng phẩm lưu niệm nếu có thể.,find_product,cho minh hoi toi can tim tang pham luu niem neu co the
+Bạn có thể cho mình biết Tôi cần tìm món quà lưu niệm giúp mình nhé.,find_product,ban co the cho minh biet toi can tim mon qua luu niem giup minh nhe
+Cho mình hỏi Tôi cần tìm quà tặng lưu niệm giúp mình nhé.,find_product,cho minh hoi toi can tim qua tang luu niem giup minh nhe
+Xin hỏi Có móc khóa không giúp mình nhé.,find_product,xin hoi co moc khoa khong giup minh nhe
+Bạn có thể cho mình biết Có móc khóa không giúp mình nhé.,find_product,ban co the cho minh biet co moc khoa khong giup minh nhe
+Cho mình hỏi Có móc khóa không?,find_product,cho minh hoi co moc khoa khong
+Mình muốn biết Có móc khóa không giúp mình nhé.,find_product,minh muon biet co moc khoa khong giup minh nhe
+Bạn có thể cho mình biết Có móc khóa không được không?,find_product,ban co the cho minh biet co moc khoa khong duoc khong
+Có móc khóa không,find_product,co moc khoa khong
+Cho mình hỏi Có móc khóa không giúp mình nhé.,find_product,cho minh hoi co moc khoa khong giup minh nhe
+Xin hỏi Có móc khóa không nếu có thể.,find_product,xin hoi co moc khoa khong neu co the
+Xin hỏi Có móc khóa không?,find_product,xin hoi co moc khoa khong
+Bạn có thể cho mình biết Có gấu bông không giúp mình nhé.,find_product,ban co the cho minh biet co gau bong khong giup minh nhe
+Bạn có thể cho mình biết Có gấu bông không nếu có thể.,find_product,ban co the cho minh biet co gau bong khong neu co the
+Cho mình hỏi Có gấu bông không?,find_product,cho minh hoi co gau bong khong
+Có gấu bông không,find_product,co gau bong khong
+Xin hỏi Có gấu bông không giúp mình nhé.,find_product,xin hoi co gau bong khong giup minh nhe
+Xin hỏi Có gấu bông không nếu có thể.,find_product,xin hoi co gau bong khong neu co the
+Mình muốn biết Có gấu bông không nếu có thể.,find_product,minh muon biet co gau bong khong neu co the
+Bạn có thể cho mình biết Có gấu bông không?,find_product,ban co the cho minh biet co gau bong khong
+Xin hỏi Tôi muốn xem túi xách được không?,find_product,xin hoi toi muon xem tui xach duoc khong
+Bạn có thể cho mình biết Tôi muốn xem túi xách nếu có thể.,find_product,ban co the cho minh biet toi muon xem tui xach neu co the
+Cho mình hỏi Tôi muốn xem túi xách giúp mình nhé.,find_product,cho minh hoi toi muon xem tui xach giup minh nhe
+Xin hỏi Tôi muốn xem túi xách giúp mình nhé.,find_product,xin hoi toi muon xem tui xach giup minh nhe
+Mình muốn biết Tôi muốn xem túi xách?,find_product,minh muon biet toi muon xem tui xach
+Cho mình hỏi Tôi muốn xem túi xách được không?,find_product,cho minh hoi toi muon xem tui xach duoc khong
+Mình muốn biết Tôi muốn xem túi xách được không?,find_product,minh muon biet toi muon xem tui xach duoc khong
+Tôi muốn xem túi xách,find_product,toi muon xem tui xach
+Mình muốn biết Có dây chuyền nữ không được không?,find_product,minh muon biet co day chuyen nu khong duoc khong
+Xin hỏi Có dây chuyền nữ không?,find_product,xin hoi co day chuyen nu khong
+Có dây chuyền nữ không,find_product,co day chuyen nu khong
+Xin hỏi Có dây chuyền nữ không nếu có thể.,find_product,xin hoi co day chuyen nu khong neu co the
+Xin hỏi Có dây chuyền nữ không được không?,find_product,xin hoi co day chuyen nu khong duoc khong
+Cho mình hỏi Có dây chuyền nữ không được không?,find_product,cho minh hoi co day chuyen nu khong duoc khong
+Xin hỏi Có dây chuyền nữ không giúp mình nhé.,find_product,xin hoi co day chuyen nu khong giup minh nhe
+Cho mình hỏi Có dây chuyền nữ không?,find_product,cho minh hoi co day chuyen nu khong
+Mình muốn biết Có dây chuyền nữ không nếu có thể.,find_product,minh muon biet co day chuyen nu khong neu co the
+Xin hỏi Có bán vòng cổ không giúp mình nhé.,find_product,xin hoi co ban vong co khong giup minh nhe
+Mình muốn biết Có bán vòng cổ không nếu có thể.,find_product,minh muon biet co ban vong co khong neu co the
+Cho mình hỏi Có bán vòng cổ không được không?,find_product,cho minh hoi co ban vong co khong duoc khong
+Mình muốn biết Có bán vòng cổ không được không?,find_product,minh muon biet co ban vong co khong duoc khong
+Cho mình hỏi Có bán vòng cổ không nếu có thể.,find_product,cho minh hoi co ban vong co khong neu co the
+Cho mình hỏi Có bán vòng cổ không giúp mình nhé.,find_product,cho minh hoi co ban vong co khong giup minh nhe
+Bạn có thể cho mình biết Có bán vòng cổ không?,find_product,ban co the cho minh biet co ban vong co khong
+Có bán vòng cổ không,find_product,co ban vong co khong
+Shop có quà sinh nhật không,find_product,shop co qua sinh nhat khong
+Cho mình hỏi Shop có tặng phẩm sinh nhật không giúp mình nhé.,find_product,cho minh hoi shop co tang pham sinh nhat khong giup minh nhe
+Mình muốn biết Shop có tặng phẩm sinh nhật không được không?,find_product,minh muon biet shop co tang pham sinh nhat khong duoc khong
+Xin hỏi Shop có món quà sinh nhật không nếu có thể.,find_product,xin hoi shop co mon qua sinh nhat khong neu co the
+Bạn có thể cho mình biết Shop có món quà sinh nhật không nếu có thể.,find_product,ban co the cho minh biet shop co mon qua sinh nhat khong neu co the
+Mình muốn biết Shop có quà tặng sinh nhật không nếu có thể.,find_product,minh muon biet shop co qua tang sinh nhat khong neu co the
+Cho mình hỏi Shop có quà tặng sinh nhật không?,find_product,cho minh hoi shop co qua tang sinh nhat khong
+Bạn có thể cho mình biết Shop có tặng phẩm sinh nhật không được không?,find_product,ban co the cho minh biet shop co tang pham sinh nhat khong duoc khong
+Bạn có thể cho mình biết Shop có món quà sinh nhật không được không?,find_product,ban co the cho minh biet shop co mon qua sinh nhat khong duoc khong
+Bạn có thể cho mình biết Cho mình xem ly sứ nếu có thể.,find_product,ban co the cho minh biet cho minh xem ly su neu co the
+Cho mình xem ly sứ,find_product,cho minh xem ly su
+Mình muốn biết Cho mình xem ly sứ được không?,find_product,minh muon biet cho minh xem ly su duoc khong
+Cho mình hỏi Cho mình xem ly sứ nếu có thể.,find_product,cho minh hoi cho minh xem ly su neu co the
+Mình muốn biết Cho mình xem ly sứ giúp mình nhé.,find_product,minh muon biet cho minh xem ly su giup minh nhe
+Cho mình hỏi Cho mình xem ly sứ?,find_product,cho minh hoi cho minh xem ly su
+Cho mình hỏi Cho mình xem ly sứ được không?,find_product,cho minh hoi cho minh xem ly su duoc khong
+Có đồng hồ không,find_product,co dong ho khong
+Xin hỏi Có đồng hồ không nếu có thể.,find_product,xin hoi co dong ho khong neu co the
+Cho mình hỏi Có đồng hồ không được không?,find_product,cho minh hoi co dong ho khong duoc khong
+Cho mình hỏi Có đồng hồ không giúp mình nhé.,find_product,cho minh hoi co dong ho khong giup minh nhe
+Cho mình hỏi Có đồng hồ không?,find_product,cho minh hoi co dong ho khong
+Xin hỏi Có đồng hồ không?,find_product,xin hoi co dong ho khong
+Mình muốn biết Có đồng hồ không giúp mình nhé.,find_product,minh muon biet co dong ho khong giup minh nhe
+Bạn có thể cho mình biết Có đồng hồ không?,find_product,ban co the cho minh biet co dong ho khong
+Xin hỏi Tôi cần tìm quà tặng cho bé gái giúp mình nhé.,find_product,xin hoi toi can tim qua tang cho be gai giup minh nhe
+Mình muốn biết Tôi cần tìm quà tặng cho bé gái nếu có thể.,find_product,minh muon biet toi can tim qua tang cho be gai neu co the
+Cho mình hỏi Tôi cần tìm món quà cho bé gái giúp mình nhé.,find_product,cho minh hoi toi can tim mon qua cho be gai giup minh nhe
+Cho mình hỏi Tôi cần tìm tặng phẩm cho bé gái?,find_product,cho minh hoi toi can tim tang pham cho be gai
+Xin hỏi Tôi cần tìm tặng phẩm cho bé gái giúp mình nhé.,find_product,xin hoi toi can tim tang pham cho be gai giup minh nhe
+Tôi cần tìm quà cho bé gái,find_product,toi can tim qua cho be gai
+Mình muốn biết Tôi cần tìm quà tặng cho bé gái giúp mình nhé.,find_product,minh muon biet toi can tim qua tang cho be gai giup minh nhe
+Cho mình hỏi Tôi cần tìm tặng phẩm cho bé gái giúp mình nhé.,find_product,cho minh hoi toi can tim tang pham cho be gai giup minh nhe
+Cho mình hỏi Tôi cần tìm quà tặng cho bé gái giúp mình nhé.,find_product,cho minh hoi toi can tim qua tang cho be gai giup minh nhe
+Cho mình hỏi Tôi muốn tậu món quà Valentine được không?,find_product,cho minh hoi toi muon tau mon qua valentine duoc khong
+Tôi muốn mua quà Valentine,find_product,toi muon mua qua valentine
+Cho mình hỏi Tôi muốn mua sắm món quà Valentine được không?,find_product,cho minh hoi toi muon mua sam mon qua valentine duoc khong
+Xin hỏi Tôi muốn mua sắm quà tặng Valentine được không?,find_product,xin hoi toi muon mua sam qua tang valentine duoc khong
+Mình muốn biết Tôi muốn tậu tặng phẩm Valentine được không?,find_product,minh muon biet toi muon tau tang pham valentine duoc khong
+Cho mình hỏi Tôi muốn mua sắm món quà Valentine?,find_product,cho minh hoi toi muon mua sam mon qua valentine
+Bạn có thể cho mình biết Tôi muốn mua sắm món quà Valentine được không?,find_product,ban co the cho minh biet toi muon mua sam mon qua valentine duoc khong
+Bạn có thể cho mình biết Tôi muốn sắm tặng phẩm Valentine được không?,find_product,ban co the cho minh biet toi muon sam tang pham valentine duoc khong
+Xin hỏi Tôi muốn mua sắm quà tặng Valentine giúp mình nhé.,find_product,xin hoi toi muon mua sam qua tang valentine giup minh nhe
+Có áo đôi không,find_product,co ao doi khong
+Cho mình hỏi Có áo đôi không được không?,find_product,cho minh hoi co ao doi khong duoc khong
+Xin hỏi Có áo đôi không được không?,find_product,xin hoi co ao doi khong duoc khong
+Cho mình hỏi Có áo đôi không?,find_product,cho minh hoi co ao doi khong
+Xin hỏi Có áo đôi không giúp mình nhé.,find_product,xin hoi co ao doi khong giup minh nhe
+Mình muốn biết Có áo đôi không nếu có thể.,find_product,minh muon biet co ao doi khong neu co the
+Xin hỏi Có áo đôi không?,find_product,xin hoi co ao doi khong
+Bạn có thể cho mình biết Có áo đôi không?,find_product,ban co the cho minh biet co ao doi khong
+Xin hỏi Shop có hàng handmade không nếu có thể.,find_product,xin hoi shop co hang handmade khong neu co the
+Xin hỏi Shop có hàng handmade không?,find_product,xin hoi shop co hang handmade khong
+Xin hỏi Shop có hàng handmade không được không?,find_product,xin hoi shop co hang handmade khong duoc khong
+Shop có hàng handmade không,find_product,shop co hang handmade khong
+Bạn có thể cho mình biết Shop có hàng handmade không nếu có thể.,find_product,ban co the cho minh biet shop co hang handmade khong neu co the
+Bạn có thể cho mình biết Shop có hàng handmade không?,find_product,ban co the cho minh biet shop co hang handmade khong
+Cho mình hỏi Shop có hàng handmade không được không?,find_product,cho minh hoi shop co hang handmade khong duoc khong
+Cho mình hỏi Shop có hàng handmade không?,find_product,cho minh hoi shop co hang handmade khong
+Cho mình hỏi Shop có hàng handmade không nếu có thể.,find_product,cho minh hoi shop co hang handmade khong neu co the
+Bạn có thể cho mình biết Giá bao nhiêu vậy được không?,ask_price,ban co the cho minh biet gia bao nhieu vay duoc khong
+Mình muốn biết Giá bao nhiêu vậy được không?,ask_price,minh muon biet gia bao nhieu vay duoc khong
+Bạn có thể cho mình biết Giá bao nhiêu vậy nếu có thể.,ask_price,ban co the cho minh biet gia bao nhieu vay neu co the
+Giá bao nhiêu vậy,ask_price,gia bao nhieu vay
+Xin hỏi Giá bao nhiêu vậy nếu có thể.,ask_price,xin hoi gia bao nhieu vay neu co the
+Xin hỏi Giá bao nhiêu vậy giúp mình nhé.,ask_price,xin hoi gia bao nhieu vay giup minh nhe
+Bạn có thể cho mình biết Cái này bao nhiêu tiền?,ask_price,ban co the cho minh biet cai nay bao nhieu tien
+Xin hỏi Cái này bao nhiêu tiền được không?,ask_price,xin hoi cai nay bao nhieu tien duoc khong
+Bạn có thể cho mình biết Cái này bao nhiêu tiền được không?,ask_price,ban co the cho minh biet cai nay bao nhieu tien duoc khong
+Mình muốn biết Cái này bao nhiêu tiền?,ask_price,minh muon biet cai nay bao nhieu tien
+Cho mình hỏi Cái này bao nhiêu tiền nếu có thể.,ask_price,cho minh hoi cai nay bao nhieu tien neu co the
+Cái này bao nhiêu tiền,ask_price,cai nay bao nhieu tien
+Mình muốn biết Vòng tay này giá tiền bao nhiêu giúp mình nhé.,ask_price,minh muon biet vong tay nay gia tien bao nhieu giup minh nhe
+Bạn có thể cho mình biết Vòng tay này giá tiền bao nhiêu nếu có thể.,ask_price,ban co the cho minh biet vong tay nay gia tien bao nhieu neu co the
+Mình muốn biết Vòng tay này giá tiền bao nhiêu?,ask_price,minh muon biet vong tay nay gia tien bao nhieu
+Bạn có thể cho mình biết Vòng tay này giá tiền bao nhiêu?,ask_price,ban co the cho minh biet vong tay nay gia tien bao nhieu
+Vòng tay này giá bao nhiêu,ask_price,vong tay nay gia bao nhieu
+Xin hỏi Vòng tay này giá tiền bao nhiêu?,ask_price,xin hoi vong tay nay gia tien bao nhieu
+Cho mình hỏi Vòng tay này chi phí bao nhiêu?,ask_price,cho minh hoi vong tay nay chi phi bao nhieu
+Cho mình hỏi Vòng tay này chi phí bao nhiêu giúp mình nhé.,ask_price,cho minh hoi vong tay nay chi phi bao nhieu giup minh nhe
+Nhẫn bạc bao nhiêu,ask_price,nhan bac bao nhieu
+Bạn có thể cho mình biết Nhẫn bạc bao nhiêu được không?,ask_price,ban co the cho minh biet nhan bac bao nhieu duoc khong
+Bạn có thể cho mình biết Nhẫn bạc bao nhiêu?,ask_price,ban co the cho minh biet nhan bac bao nhieu
+Mình muốn biết Nhẫn bạc bao nhiêu giúp mình nhé.,ask_price,minh muon biet nhan bac bao nhieu giup minh nhe
+Mình muốn biết Nhẫn bạc bao nhiêu nếu có thể.,ask_price,minh muon biet nhan bac bao nhieu neu co the
+Xin hỏi Nhẫn bạc bao nhiêu được không?,ask_price,xin hoi nhan bac bao nhieu duoc khong
+Mình muốn biết Nhẫn bạc bao nhiêu?,ask_price,minh muon biet nhan bac bao nhieu
+Xin hỏi Ly sứ mèo chi phí thế nào?,ask_price,xin hoi ly su meo chi phi the nao
+Xin hỏi Ly sứ mèo mức giá thế nào nếu có thể.,ask_price,xin hoi ly su meo muc gia the nao neu co the
+Bạn có thể cho mình biết Ly sứ mèo mức giá thế nào?,ask_price,ban co the cho minh biet ly su meo muc gia the nao
+Xin hỏi Ly sứ mèo giá tiền thế nào được không?,ask_price,xin hoi ly su meo gia tien the nao duoc khong
+Mình muốn biết Ly sứ mèo mức giá thế nào nếu có thể.,ask_price,minh muon biet ly su meo muc gia the nao neu co the
+Xin hỏi Ly sứ mèo giá tiền thế nào?,ask_price,xin hoi ly su meo gia tien the nao
+Mình muốn biết Ly sứ mèo mức giá thế nào giúp mình nhé.,ask_price,minh muon biet ly su meo muc gia the nao giup minh nhe
+Ly sứ mèo giá thế nào,ask_price,ly su meo gia the nao
+Xin hỏi Ly sứ mèo chi phí thế nào giúp mình nhé.,ask_price,xin hoi ly su meo chi phi the nao giup minh nhe
+Xin hỏi Bao nhiêu một cái vậy giúp mình nhé.,ask_price,xin hoi bao nhieu mot cai vay giup minh nhe
+Cho mình hỏi Bao nhiêu một cái vậy giúp mình nhé.,ask_price,cho minh hoi bao nhieu mot cai vay giup minh nhe
+Mình muốn biết Bao nhiêu một cái vậy được không?,ask_price,minh muon biet bao nhieu mot cai vay duoc khong
+Bao nhiêu một cái vậy,ask_price,bao nhieu mot cai vay
+Mình muốn biết Bao nhiêu một cái vậy?,ask_price,minh muon biet bao nhieu mot cai vay
+Bạn có thể cho mình biết Bao nhiêu một cái vậy giúp mình nhé.,ask_price,ban co the cho minh biet bao nhieu mot cai vay giup minh nhe
+Mình muốn biết Bao nhiêu một cái vậy nếu có thể.,ask_price,minh muon biet bao nhieu mot cai vay neu co the
+Mình muốn biết Sản phẩm này giá tiền sao vậy?,ask_price,minh muon biet san pham nay gia tien sao vay
+Xin hỏi Sản phẩm này giá tiền sao vậy nếu có thể.,ask_price,xin hoi san pham nay gia tien sao vay neu co the
+Cho mình hỏi Sản phẩm này chi phí sao vậy nếu có thể.,ask_price,cho minh hoi san pham nay chi phi sao vay neu co the
+Bạn có thể cho mình biết Sản phẩm này giá tiền sao vậy được không?,ask_price,ban co the cho minh biet san pham nay gia tien sao vay duoc khong
+Sản phẩm này giá sao vậy,ask_price,san pham nay gia sao vay
+Mình muốn biết Sản phẩm này chi phí sao vậy nếu có thể.,ask_price,minh muon biet san pham nay chi phi sao vay neu co the
+Mình muốn biết Sản phẩm này giá tiền sao vậy được không?,ask_price,minh muon biet san pham nay gia tien sao vay duoc khong
+Cho mình hỏi Cho hỏi chi phí với giúp mình nhé.,ask_price,cho minh hoi cho hoi chi phi voi giup minh nhe
+Cho mình hỏi Cho hỏi chi phí với nếu có thể.,ask_price,cho minh hoi cho hoi chi phi voi neu co the
+Xin hỏi Cho hỏi giá tiền với?,ask_price,xin hoi cho hoi gia tien voi
+Xin hỏi Cho hỏi mức giá với được không?,ask_price,xin hoi cho hoi muc gia voi duoc khong
+Bạn có thể cho mình biết Cho hỏi chi phí với giúp mình nhé.,ask_price,ban co the cho minh biet cho hoi chi phi voi giup minh nhe
+Cho hỏi giá với,ask_price,cho hoi gia voi
+Bạn có thể cho mình biết Cho hỏi giá tiền với được không?,ask_price,ban co the cho minh biet cho hoi gia tien voi duoc khong
+Bạn có thể cho mình biết Cho hỏi chi phí với nếu có thể.,ask_price,ban co the cho minh biet cho hoi chi phi voi neu co the
+Mình muốn biết Giá hiện tại là bao nhiêu được không?,ask_price,minh muon biet gia hien tai la bao nhieu duoc khong
+Bạn có thể cho mình biết Giá hiện tại là bao nhiêu nếu có thể.,ask_price,ban co the cho minh biet gia hien tai la bao nhieu neu co the
+Mình muốn biết Giá hiện tại là bao nhiêu nếu có thể.,ask_price,minh muon biet gia hien tai la bao nhieu neu co the
+Xin hỏi Giá hiện tại là bao nhiêu giúp mình nhé.,ask_price,xin hoi gia hien tai la bao nhieu giup minh nhe
+Xin hỏi Giá hiện tại là bao nhiêu được không?,ask_price,xin hoi gia hien tai la bao nhieu duoc khong
+Bạn có thể cho mình biết Giá hiện tại là bao nhiêu?,ask_price,ban co the cho minh biet gia hien tai la bao nhieu
+Giá hiện tại là bao nhiêu,ask_price,gia hien tai la bao nhieu
+Cho mình hỏi Giá hiện tại là bao nhiêu?,ask_price,cho minh hoi gia hien tai la bao nhieu
+Có giảm giá không,ask_price,co giam gia khong
+Xin hỏi Có giảm chi phí không nếu có thể.,ask_price,xin hoi co giam chi phi khong neu co the
+Mình muốn biết Có giảm giá tiền không được không?,ask_price,minh muon biet co giam gia tien khong duoc khong
+Xin hỏi Có giảm chi phí không giúp mình nhé.,ask_price,xin hoi co giam chi phi khong giup minh nhe
+Xin hỏi Có giảm mức giá không?,ask_price,xin hoi co giam muc gia khong
+Bạn có thể cho mình biết Có giảm giá tiền không?,ask_price,ban co the cho minh biet co giam gia tien khong
+Bạn có thể cho mình biết Có giảm mức giá không?,ask_price,ban co the cho minh biet co giam muc gia khong
+Mình muốn biết Có giảm mức giá không được không?,ask_price,minh muon biet co giam muc gia khong duoc khong
+Mình muốn biết Bao nhiêu tiền một đôi vậy giúp mình nhé.,ask_price,minh muon biet bao nhieu tien mot doi vay giup minh nhe
+Bạn có thể cho mình biết Bao nhiêu tiền một đôi vậy nếu có thể.,ask_price,ban co the cho minh biet bao nhieu tien mot doi vay neu co the
+Xin hỏi Bao nhiêu tiền một đôi vậy được không?,ask_price,xin hoi bao nhieu tien mot doi vay duoc khong
+Cho mình hỏi Bao nhiêu tiền một đôi vậy nếu có thể.,ask_price,cho minh hoi bao nhieu tien mot doi vay neu co the
+Bao nhiêu tiền một đôi vậy,ask_price,bao nhieu tien mot doi vay
+Cho mình hỏi Bao nhiêu tiền một đôi vậy được không?,ask_price,cho minh hoi bao nhieu tien mot doi vay duoc khong
+Bạn có thể cho mình biết Bao nhiêu tiền một đôi vậy?,ask_price,ban co the cho minh biet bao nhieu tien mot doi vay
+Cho mình hỏi Giá từng món là bao nhiêu được không?,ask_price,cho minh hoi gia tung mon la bao nhieu duoc khong
+Mình muốn biết Giá từng món là bao nhiêu?,ask_price,minh muon biet gia tung mon la bao nhieu
+Giá từng món là bao nhiêu,ask_price,gia tung mon la bao nhieu
+Bạn có thể cho mình biết Giá từng món là bao nhiêu?,ask_price,ban co the cho minh biet gia tung mon la bao nhieu
+Bạn có thể cho mình biết Giá từng món là bao nhiêu giúp mình nhé.,ask_price,ban co the cho minh biet gia tung mon la bao nhieu giup minh nhe
+Xin hỏi Giá từng món là bao nhiêu nếu có thể.,ask_price,xin hoi gia tung mon la bao nhieu neu co the
+Bạn có thể cho mình biết Giá từng món là bao nhiêu nếu có thể.,ask_price,ban co the cho minh biet gia tung mon la bao nhieu neu co the
+Bạn có thể cho mình biết Giá từng món là bao nhiêu được không?,ask_price,ban co the cho minh biet gia tung mon la bao nhieu duoc khong
+Bạn có thể cho mình biết Shop bán bao nhiêu vậy?,ask_price,ban co the cho minh biet shop ban bao nhieu vay
+Bạn có thể cho mình biết Shop bán bao nhiêu vậy được không?,ask_price,ban co the cho minh biet shop ban bao nhieu vay duoc khong
+Bạn có thể cho mình biết Shop bán bao nhiêu vậy giúp mình nhé.,ask_price,ban co the cho minh biet shop ban bao nhieu vay giup minh nhe
+Mình muốn biết Shop bán bao nhiêu vậy?,ask_price,minh muon biet shop ban bao nhieu vay
+Mình muốn biết Shop bán bao nhiêu vậy giúp mình nhé.,ask_price,minh muon biet shop ban bao nhieu vay giup minh nhe
+Cho mình hỏi Shop bán bao nhiêu vậy nếu có thể.,ask_price,cho minh hoi shop ban bao nhieu vay neu co the
+Xin hỏi Shop bán bao nhiêu vậy giúp mình nhé.,ask_price,xin hoi shop ban bao nhieu vay giup minh nhe
+Cho mình hỏi Shop bán bao nhiêu vậy giúp mình nhé.,ask_price,cho minh hoi shop ban bao nhieu vay giup minh nhe
+Shop bán bao nhiêu vậy,ask_price,shop ban bao nhieu vay
+Mình muốn biết Tư vấn giúp tôi món quà cho bạn gái?,recommend_gift,minh muon biet tu van giup toi mon qua cho ban gai
+Mình muốn biết Tư vấn giúp tôi tặng phẩm cho bạn gái nếu có thể.,recommend_gift,minh muon biet tu van giup toi tang pham cho ban gai neu co the
+Xin hỏi Tư vấn giúp tôi quà tặng cho bạn gái nếu có thể.,recommend_gift,xin hoi tu van giup toi qua tang cho ban gai neu co the
+Bạn có thể cho mình biết Tư vấn giúp tôi món quà cho bạn gái nếu có thể.,recommend_gift,ban co the cho minh biet tu van giup toi mon qua cho ban gai neu co the
+Xin hỏi Tư vấn giúp tôi món quà cho bạn gái được không?,recommend_gift,xin hoi tu van giup toi mon qua cho ban gai duoc khong
+Mình muốn biết Tư vấn giúp tôi quà tặng cho bạn gái?,recommend_gift,minh muon biet tu van giup toi qua tang cho ban gai
+Cho mình hỏi Tư vấn giúp tôi tặng phẩm cho bạn gái giúp mình nhé.,recommend_gift,cho minh hoi tu van giup toi tang pham cho ban gai giup minh nhe
+Tư vấn giúp tôi quà cho bạn gái,recommend_gift,tu van giup toi qua cho ban gai
+Cho mình hỏi Tôi cần tặng phẩm tặng sinh nhật mẹ nếu có thể.,recommend_gift,cho minh hoi toi can tang pham tang sinh nhat me neu co the
+Bạn có thể cho mình biết Tôi cần quà tặng tặng sinh nhật mẹ được không?,recommend_gift,ban co the cho minh biet toi can qua tang tang sinh nhat me duoc khong
+Xin hỏi Tôi cần tặng phẩm tặng sinh nhật mẹ?,recommend_gift,xin hoi toi can tang pham tang sinh nhat me
+Mình muốn biết Tôi cần món quà tặng sinh nhật mẹ nếu có thể.,recommend_gift,minh muon biet toi can mon qua tang sinh nhat me neu co the
+Mình muốn biết Tôi cần quà tặng tặng sinh nhật mẹ được không?,recommend_gift,minh muon biet toi can qua tang tang sinh nhat me duoc khong
+Cho mình hỏi Tôi cần quà tặng tặng sinh nhật mẹ nếu có thể.,recommend_gift,cho minh hoi toi can qua tang tang sinh nhat me neu co the
+Cho mình hỏi Tôi cần tặng phẩm tặng sinh nhật mẹ giúp mình nhé.,recommend_gift,cho minh hoi toi can tang pham tang sinh nhat me giup minh nhe
+Tôi cần quà tặng sinh nhật mẹ,recommend_gift,toi can qua tang sinh nhat me
+Xin hỏi Tôi cần món quà tặng sinh nhật mẹ?,recommend_gift,xin hoi toi can mon qua tang sinh nhat me
+Bạn có thể cho mình biết Tôi nên tậu gì tặng người yêu?,recommend_gift,ban co the cho minh biet toi nen tau gi tang nguoi yeu
+Mình muốn biết Tôi nên sắm gì tặng người yêu giúp mình nhé.,recommend_gift,minh muon biet toi nen sam gi tang nguoi yeu giup minh nhe
+Cho mình hỏi Tôi nên tậu gì tặng người yêu?,recommend_gift,cho minh hoi toi nen tau gi tang nguoi yeu
+Tôi nên mua gì tặng người yêu,recommend_gift,toi nen mua gi tang nguoi yeu
+Xin hỏi Tôi nên sắm gì tặng người yêu được không?,recommend_gift,xin hoi toi nen sam gi tang nguoi yeu duoc khong
+Mình muốn biết Tôi nên mua sắm gì tặng người yêu?,recommend_gift,minh muon biet toi nen mua sam gi tang nguoi yeu
+Mình muốn biết Tôi nên tậu gì tặng người yêu được không?,recommend_gift,minh muon biet toi nen tau gi tang nguoi yeu duoc khong
+Xin hỏi Gợi ý quà tặng tặng cho bạn bè đi?,recommend_gift,xin hoi goi y qua tang tang cho ban be di
+Mình muốn biết Gợi ý quà tặng tặng cho bạn bè đi được không?,recommend_gift,minh muon biet goi y qua tang tang cho ban be di duoc khong
+Xin hỏi Gợi ý món quà tặng cho bạn bè đi giúp mình nhé.,recommend_gift,xin hoi goi y mon qua tang cho ban be di giup minh nhe
+Gợi ý quà tặng cho bạn bè đi,recommend_gift,goi y qua tang cho ban be di
+Cho mình hỏi Gợi ý quà tặng tặng cho bạn bè đi nếu có thể.,recommend_gift,cho minh hoi goi y qua tang tang cho ban be di neu co the
+Bạn có thể cho mình biết Gợi ý tặng phẩm tặng cho bạn bè đi được không?,recommend_gift,ban co the cho minh biet goi y tang pham tang cho ban be di duoc khong
+Mình muốn biết Gợi ý tặng phẩm tặng cho bạn bè đi giúp mình nhé.,recommend_gift,minh muon biet goi y tang pham tang cho ban be di giup minh nhe
+Xin hỏi Gợi ý tặng phẩm tặng cho bạn bè đi nếu có thể.,recommend_gift,xin hoi goi y tang pham tang cho ban be di neu co the
+Cho mình hỏi Gợi ý món quà tặng cho bạn bè đi được không?,recommend_gift,cho minh hoi goi y mon qua tang cho ban be di duoc khong
+Có món nào dễ thương không,recommend_gift,co mon nao de thuong khong
+Mình muốn biết Có món nào dễ thương không được không?,recommend_gift,minh muon biet co mon nao de thuong khong duoc khong
+Bạn có thể cho mình biết Có món nào dễ thương không giúp mình nhé.,recommend_gift,ban co the cho minh biet co mon nao de thuong khong giup minh nhe
+Xin hỏi Có món nào dễ thương không nếu có thể.,recommend_gift,xin hoi co mon nao de thuong khong neu co the
+Cho mình hỏi Có món nào dễ thương không giúp mình nhé.,recommend_gift,cho minh hoi co mon nao de thuong khong giup minh nhe
+Xin hỏi Có món nào dễ thương không?,recommend_gift,xin hoi co mon nao de thuong khong
+Mình muốn biết Có món nào dễ thương không?,recommend_gift,minh muon biet co mon nao de thuong khong
+Cho mình hỏi Tôi muốn tặng quà tặng cho con gái giúp mình nhé.,recommend_gift,cho minh hoi toi muon tang qua tang cho con gai giup minh nhe
+Mình muốn biết Tôi muốn tặng tặng phẩm cho con gái?,recommend_gift,minh muon biet toi muon tang tang pham cho con gai
+Mình muốn biết Tôi muốn tặng món quà cho con gái?,recommend_gift,minh muon biet toi muon tang mon qua cho con gai
+Cho mình hỏi Tôi muốn tặng quà tặng cho con gái?,recommend_gift,cho minh hoi toi muon tang qua tang cho con gai
+Bạn có thể cho mình biết Tôi muốn tặng món quà cho con gái?,recommend_gift,ban co the cho minh biet toi muon tang mon qua cho con gai
+Cho mình hỏi Tôi muốn tặng món quà cho con gái nếu có thể.,recommend_gift,cho minh hoi toi muon tang mon qua cho con gai neu co the
+Tôi muốn tặng quà cho con gái,recommend_gift,toi muon tang qua cho con gai
+Mình muốn biết Tôi muốn tặng quà tặng cho con gái được không?,recommend_gift,minh muon biet toi muon tang qua tang cho con gai duoc khong
+Bạn có thể cho mình biết Tư vấn quà tặng cho đồng nghiệp nữ?,recommend_gift,ban co the cho minh biet tu van qua tang cho dong nghiep nu
+Xin hỏi Tư vấn tặng phẩm cho đồng nghiệp nữ được không?,recommend_gift,xin hoi tu van tang pham cho dong nghiep nu duoc khong
+Mình muốn biết Tư vấn quà tặng cho đồng nghiệp nữ nếu có thể.,recommend_gift,minh muon biet tu van qua tang cho dong nghiep nu neu co the
+Mình muốn biết Tư vấn tặng phẩm cho đồng nghiệp nữ giúp mình nhé.,recommend_gift,minh muon biet tu van tang pham cho dong nghiep nu giup minh nhe
+Tư vấn quà cho đồng nghiệp nữ,recommend_gift,tu van qua cho dong nghiep nu
+Bạn có thể cho mình biết Tư vấn quà tặng cho đồng nghiệp nữ giúp mình nhé.,recommend_gift,ban co the cho minh biet tu van qua tang cho dong nghiep nu giup minh nhe
+Bạn có thể cho mình biết Tư vấn tặng phẩm cho đồng nghiệp nữ?,recommend_gift,ban co the cho minh biet tu van tang pham cho dong nghiep nu
+Bạn có thể cho mình biết Tư vấn quà tặng cho đồng nghiệp nữ nếu có thể.,recommend_gift,ban co the cho minh biet tu van qua tang cho dong nghiep nu neu co the
+Mình muốn biết Quà nào hợp cho người yêu mới quen?,recommend_gift,minh muon biet qua nao hop cho nguoi yeu moi quen
+Mình muốn biết Quà nào hợp cho người yêu mới quen giúp mình nhé.,recommend_gift,minh muon biet qua nao hop cho nguoi yeu moi quen giup minh nhe
+Cho mình hỏi Quà nào hợp cho người yêu mới quen?,recommend_gift,cho minh hoi qua nao hop cho nguoi yeu moi quen
+Quà nào hợp cho người yêu mới quen,recommend_gift,qua nao hop cho nguoi yeu moi quen
+Xin hỏi Quà nào hợp cho người yêu mới quen giúp mình nhé.,recommend_gift,xin hoi qua nao hop cho nguoi yeu moi quen giup minh nhe
+Bạn có thể cho mình biết Quà nào hợp cho người yêu mới quen giúp mình nhé.,recommend_gift,ban co the cho minh biet qua nao hop cho nguoi yeu moi quen giup minh nhe
+Mình muốn biết Tặng món quà cho bạn thân nên chọn gì được không?,recommend_gift,minh muon biet tang mon qua cho ban than nen chon gi duoc khong
+Tặng quà cho bạn thân nên chọn gì,recommend_gift,tang qua cho ban than nen chon gi
+Mình muốn biết Tặng quà tặng cho bạn thân nên chọn gì nếu có thể.,recommend_gift,minh muon biet tang qua tang cho ban than nen chon gi neu co the
+Bạn có thể cho mình biết Tặng quà tặng cho bạn thân nên chọn gì nếu có thể.,recommend_gift,ban co the cho minh biet tang qua tang cho ban than nen chon gi neu co the
+Cho mình hỏi Tặng tặng phẩm cho bạn thân nên chọn gì?,recommend_gift,cho minh hoi tang tang pham cho ban than nen chon gi
+Mình muốn biết Tặng quà tặng cho bạn thân nên chọn gì?,recommend_gift,minh muon biet tang qua tang cho ban than nen chon gi
+Xin hỏi Tặng tặng phẩm cho bạn thân nên chọn gì?,recommend_gift,xin hoi tang tang pham cho ban than nen chon gi
+Mình muốn biết Tặng quà tặng cho bạn thân nên chọn gì được không?,recommend_gift,minh muon biet tang qua tang cho ban than nen chon gi duoc khong
+Mình muốn biết Tặng tặng phẩm cho bạn thân nên chọn gì giúp mình nhé.,recommend_gift,minh muon biet tang tang pham cho ban than nen chon gi giup minh nhe
+Cho mình hỏi Gợi ý giúp mình vài món món quà đi nếu có thể.,recommend_gift,cho minh hoi goi y giup minh vai mon mon qua di neu co the
+Gợi ý giúp mình vài món quà đi,recommend_gift,goi y giup minh vai mon qua di
+Mình muốn biết Gợi ý giúp mình vài món món quà đi?,recommend_gift,minh muon biet goi y giup minh vai mon mon qua di
+Bạn có thể cho mình biết Gợi ý giúp mình vài món món quà đi được không?,recommend_gift,ban co the cho minh biet goi y giup minh vai mon mon qua di duoc khong
+Mình muốn biết Gợi ý giúp mình vài món món quà đi được không?,recommend_gift,minh muon biet goi y giup minh vai mon mon qua di duoc khong
+Cho mình hỏi Gợi ý giúp mình vài món tặng phẩm đi nếu có thể.,recommend_gift,cho minh hoi goi y giup minh vai mon tang pham di neu co the
+Xin hỏi Gợi ý giúp mình vài món món quà đi được không?,recommend_gift,xin hoi goi y giup minh vai mon mon qua di duoc khong
+Mình muốn biết Gợi ý giúp mình vài món món quà đi giúp mình nhé.,recommend_gift,minh muon biet goi y giup minh vai mon mon qua di giup minh nhe
+Bạn có thể cho mình biết Gợi ý giúp mình vài món tặng phẩm đi nếu có thể.,recommend_gift,ban co the cho minh biet goi y giup minh vai mon tang pham di neu co the
+Mình muốn biết Mua gì tặng thầy cô thì hợp được không?,recommend_gift,minh muon biet mua gi tang thay co thi hop duoc khong
+Mình muốn biết Mua gì tặng thầy cô thì hợp?,recommend_gift,minh muon biet mua gi tang thay co thi hop
+Bạn có thể cho mình biết Mua gì tặng thầy cô thì hợp được không?,recommend_gift,ban co the cho minh biet mua gi tang thay co thi hop duoc khong
+Xin hỏi Mua gì tặng thầy cô thì hợp nếu có thể.,recommend_gift,xin hoi mua gi tang thay co thi hop neu co the
+Mua gì tặng thầy cô thì hợp,recommend_gift,mua gi tang thay co thi hop
+Mình muốn biết Mua gì tặng thầy cô thì hợp nếu có thể.,recommend_gift,minh muon biet mua gi tang thay co thi hop neu co the
+Xin hỏi Mua gì tặng thầy cô thì hợp?,recommend_gift,xin hoi mua gi tang thay co thi hop
+Cho mình hỏi Có món nào ý nghĩa không giúp mình nhé.,recommend_gift,cho minh hoi co mon nao y nghia khong giup minh nhe
+Mình muốn biết Có món nào ý nghĩa không giúp mình nhé.,recommend_gift,minh muon biet co mon nao y nghia khong giup minh nhe
+Xin hỏi Có món nào ý nghĩa không giúp mình nhé.,recommend_gift,xin hoi co mon nao y nghia khong giup minh nhe
+Mình muốn biết Có món nào ý nghĩa không được không?,recommend_gift,minh muon biet co mon nao y nghia khong duoc khong
+Có món nào ý nghĩa không,recommend_gift,co mon nao y nghia khong
+Bạn có thể cho mình biết Có món nào ý nghĩa không nếu có thể.,recommend_gift,ban co the cho minh biet co mon nao y nghia khong neu co the
+Xin hỏi Có món nào ý nghĩa không được không?,recommend_gift,xin hoi co mon nao y nghia khong duoc khong
+Mình muốn biết Có món nào ý nghĩa không?,recommend_gift,minh muon biet co mon nao y nghia khong
+Bạn có thể cho mình biết Giúp tôi chọn tặng phẩm Valentine đi được không?,recommend_gift,ban co the cho minh biet giup toi chon tang pham valentine di duoc khong
+Bạn có thể cho mình biết Giúp tôi chọn món quà Valentine đi nếu có thể.,recommend_gift,ban co the cho minh biet giup toi chon mon qua valentine di neu co the
+Bạn có thể cho mình biết Giúp tôi chọn món quà Valentine đi giúp mình nhé.,recommend_gift,ban co the cho minh biet giup toi chon mon qua valentine di giup minh nhe
+Bạn có thể cho mình biết Giúp tôi chọn quà tặng Valentine đi nếu có thể.,recommend_gift,ban co the cho minh biet giup toi chon qua tang valentine di neu co the
+Cho mình hỏi Giúp tôi chọn tặng phẩm Valentine đi giúp mình nhé.,recommend_gift,cho minh hoi giup toi chon tang pham valentine di giup minh nhe
+Mình muốn biết Giúp tôi chọn tặng phẩm Valentine đi nếu có thể.,recommend_gift,minh muon biet giup toi chon tang pham valentine di neu co the
+Giúp tôi chọn quà Valentine đi,recommend_gift,giup toi chon qua valentine di
+Cho mình hỏi Giúp tôi chọn quà tặng Valentine đi nếu có thể.,recommend_gift,cho minh hoi giup toi chon qua tang valentine di neu co the
+Xin hỏi Giúp tôi chọn tặng phẩm Valentine đi được không?,recommend_gift,xin hoi giup toi chon tang pham valentine di duoc khong
+Cho mình hỏi Tôi đang phân vân không biết tậu gì được không?,recommend_gift,cho minh hoi toi dang phan van khong biet tau gi duoc khong
+Xin hỏi Tôi đang phân vân không biết tậu gì?,recommend_gift,xin hoi toi dang phan van khong biet tau gi
+Bạn có thể cho mình biết Tôi đang phân vân không biết mua sắm gì?,recommend_gift,ban co the cho minh biet toi dang phan van khong biet mua sam gi
+Tôi đang phân vân không biết mua gì,recommend_gift,toi dang phan van khong biet mua gi
+Xin hỏi Tôi đang phân vân không biết sắm gì giúp mình nhé.,recommend_gift,xin hoi toi dang phan van khong biet sam gi giup minh nhe
+Cho mình hỏi Tôi đang phân vân không biết sắm gì nếu có thể.,recommend_gift,cho minh hoi toi dang phan van khong biet sam gi neu co the
+Bạn có thể cho mình biết Tôi đang phân vân không biết sắm gì giúp mình nhé.,recommend_gift,ban co the cho minh biet toi dang phan van khong biet sam gi giup minh nhe
+Xin hỏi Tôi đang phân vân không biết sắm gì được không?,recommend_gift,xin hoi toi dang phan van khong biet sam gi duoc khong
+Cho mình hỏi Cảm ơn nhé giúp mình nhé.,thanks,cho minh hoi cam on nhe giup minh nhe
+Xin hỏi Cảm ơn nhé được không?,thanks,xin hoi cam on nhe duoc khong
+Cho mình hỏi Cảm ơn nhé?,thanks,cho minh hoi cam on nhe
+Cảm ơn nhé,thanks,cam on nhe
+Mình muốn biết Cảm ơn nhé?,thanks,minh muon biet cam on nhe
+Mình muốn biết Cảm ơn shop nếu có thể.,thanks,minh muon biet cam on shop neu co the
+Cho mình hỏi Cảm ơn shop nếu có thể.,thanks,cho minh hoi cam on shop neu co the
+Xin hỏi Cảm ơn shop?,thanks,xin hoi cam on shop
+Cảm ơn shop,thanks,cam on shop
+Bạn có thể cho mình biết Cảm ơn shop được không?,thanks,ban co the cho minh biet cam on shop duoc khong
+Mình muốn biết Ok cảm ơn nhiều?,thanks,minh muon biet ok cam on nhieu
+Bạn có thể cho mình biết Ok cảm ơn nhiều nếu có thể.,thanks,ban co the cho minh biet ok cam on nhieu neu co the
+Cho mình hỏi Ok cảm ơn nhiều giúp mình nhé.,thanks,cho minh hoi ok cam on nhieu giup minh nhe
+Mình muốn biết Ok cảm ơn nhiều nếu có thể.,thanks,minh muon biet ok cam on nhieu neu co the
+Ok cảm ơn nhiều,thanks,ok cam on nhieu
+Xin hỏi Ok cảm ơn nhiều nếu có thể.,thanks,xin hoi ok cam on nhieu neu co the
+Xin hỏi Cảm ơn bạn nha?,thanks,xin hoi cam on ban nha
+Xin hỏi Cảm ơn bạn nha giúp mình nhé.,thanks,xin hoi cam on ban nha giup minh nhe
+Mình muốn biết Cảm ơn bạn nha nếu có thể.,thanks,minh muon biet cam on ban nha neu co the
+Bạn có thể cho mình biết Cảm ơn bạn nha được không?,thanks,ban co the cho minh biet cam on ban nha duoc khong
+Xin hỏi Cảm ơn bạn nha được không?,thanks,xin hoi cam on ban nha duoc khong
+Bạn có thể cho mình biết Cảm ơn bạn nha?,thanks,ban co the cho minh biet cam on ban nha
+Mình muốn biết Cảm ơn bạn nha được không?,thanks,minh muon biet cam on ban nha duoc khong
+Cảm ơn bạn nha,thanks,cam on ban nha
+Xin hỏi Cảm ơn bạn nha nếu có thể.,thanks,xin hoi cam on ban nha neu co the
+Xin hỏi Rất cảm ơn bạn nếu có thể.,thanks,xin hoi rat cam on ban neu co the
+Cho mình hỏi Rất cảm ơn bạn giúp mình nhé.,thanks,cho minh hoi rat cam on ban giup minh nhe
+Bạn có thể cho mình biết Rất cảm ơn bạn giúp mình nhé.,thanks,ban co the cho minh biet rat cam on ban giup minh nhe
+Xin hỏi Rất cảm ơn bạn được không?,thanks,xin hoi rat cam on ban duoc khong
+Cho mình hỏi Rất cảm ơn bạn nếu có thể.,thanks,cho minh hoi rat cam on ban neu co the
+Bạn có thể cho mình biết Rất cảm ơn bạn?,thanks,ban co the cho minh biet rat cam on ban
+Rất cảm ơn bạn,thanks,rat cam on ban
+Mình muốn biết Rất cảm ơn bạn nếu có thể.,thanks,minh muon biet rat cam on ban neu co the
+Mình muốn biết Cảm ơn vì đã giúp tôi giúp mình nhé.,thanks,minh muon biet cam on vi da giup toi giup minh nhe
+Cho mình hỏi Cảm ơn vì đã giúp tôi giúp mình nhé.,thanks,cho minh hoi cam on vi da giup toi giup minh nhe
+Xin hỏi Cảm ơn vì đã giúp tôi?,thanks,xin hoi cam on vi da giup toi
+Mình muốn biết Cảm ơn vì đã giúp tôi nếu có thể.,thanks,minh muon biet cam on vi da giup toi neu co the
+Bạn có thể cho mình biết Cảm ơn vì đã giúp tôi nếu có thể.,thanks,ban co the cho minh biet cam on vi da giup toi neu co the
+Mình muốn biết Cảm ơn vì đã giúp tôi được không?,thanks,minh muon biet cam on vi da giup toi duoc khong
+Cho mình hỏi Cảm ơn vì đã giúp tôi được không?,thanks,cho minh hoi cam on vi da giup toi duoc khong
+Cảm ơn vì đã giúp tôi,thanks,cam on vi da giup toi
+Xin hỏi Cảm ơn đã tư vấn?,thanks,xin hoi cam on da tu van
+Mình muốn biết Cảm ơn đã tư vấn giúp mình nhé.,thanks,minh muon biet cam on da tu van giup minh nhe
+Cảm ơn đã tư vấn,thanks,cam on da tu van
+Cho mình hỏi Cảm ơn đã tư vấn?,thanks,cho minh hoi cam on da tu van
+Bạn có thể cho mình biết Cảm ơn đã tư vấn giúp mình nhé.,thanks,ban co the cho minh biet cam on da tu van giup minh nhe
+Mình muốn biết Cảm ơn đã tư vấn nếu có thể.,thanks,minh muon biet cam on da tu van neu co the
+Mình muốn biết Cảm ơn nhiều nha?,thanks,minh muon biet cam on nhieu nha
+Bạn có thể cho mình biết Cảm ơn nhiều nha nếu có thể.,thanks,ban co the cho minh biet cam on nhieu nha neu co the
+Xin hỏi Cảm ơn nhiều nha?,thanks,xin hoi cam on nhieu nha
+Bạn có thể cho mình biết Cảm ơn nhiều nha được không?,thanks,ban co the cho minh biet cam on nhieu nha duoc khong
+Mình muốn biết Cảm ơn nhiều nha nếu có thể.,thanks,minh muon biet cam on nhieu nha neu co the
+Cho mình hỏi Cảm ơn nhiều nha giúp mình nhé.,thanks,cho minh hoi cam on nhieu nha giup minh nhe
+Cảm ơn nhiều nha,thanks,cam on nhieu nha
+Bạn có thể cho mình biết Mình cảm ơn nhé được không?,thanks,ban co the cho minh biet minh cam on nhe duoc khong
+Xin hỏi Mình cảm ơn nhé?,thanks,xin hoi minh cam on nhe
+Xin hỏi Mình cảm ơn nhé được không?,thanks,xin hoi minh cam on nhe duoc khong
+Xin hỏi Mình cảm ơn nhé nếu có thể.,thanks,xin hoi minh cam on nhe neu co the
+Mình muốn biết Mình cảm ơn nhé?,thanks,minh muon biet minh cam on nhe
+Mình cảm ơn nhé,thanks,minh cam on nhe
+Cho mình hỏi Mình cảm ơn nhé được không?,thanks,cho minh hoi minh cam on nhe duoc khong
+Bạn có thể cho mình biết Cảm ơn shop dễ thương quá nếu có thể.,thanks,ban co the cho minh biet cam on shop de thuong qua neu co the
+Bạn có thể cho mình biết Cảm ơn shop dễ thương quá?,thanks,ban co the cho minh biet cam on shop de thuong qua
+Cảm ơn shop dễ thương quá,thanks,cam on shop de thuong qua
+Xin hỏi Cảm ơn shop dễ thương quá?,thanks,xin hoi cam on shop de thuong qua
+Bạn có thể cho mình biết Cảm ơn shop dễ thương quá được không?,thanks,ban co the cho minh biet cam on shop de thuong qua duoc khong
+Cho mình hỏi Cảm ơn shop dễ thương quá?,thanks,cho minh hoi cam on shop de thuong qua
+Mình muốn biết Cảm ơn shop dễ thương quá nếu có thể.,thanks,minh muon biet cam on shop de thuong qua neu co the
+Mình muốn biết Cảm ơn shop dễ thương quá giúp mình nhé.,thanks,minh muon biet cam on shop de thuong qua giup minh nhe
+Cho mình hỏi Tạm biệt?,goodbye,cho minh hoi tam biet
+Tạm biệt,goodbye,tam biet
+Mình muốn biết Tạm biệt được không?,goodbye,minh muon biet tam biet duoc khong
+Mình muốn biết Tạm biệt nếu có thể.,goodbye,minh muon biet tam biet neu co the
+Xin hỏi Tạm biệt được không?,goodbye,xin hoi tam biet duoc khong
+Bạn có thể cho mình biết Bye bye giúp mình nhé.,goodbye,ban co the cho minh biet bye bye giup minh nhe
+Bye bye,goodbye,bye bye
+Mình muốn biết Bye bye?,goodbye,minh muon biet bye bye
+Xin hỏi Bye bye?,goodbye,xin hoi bye bye
+Cho mình hỏi Bye bye được không?,goodbye,cho minh hoi bye bye duoc khong
+Mình muốn biết Bye bye nếu có thể.,goodbye,minh muon biet bye bye neu co the
+Cho mình hỏi Bye bye giúp mình nhé.,goodbye,cho minh hoi bye bye giup minh nhe
+Cho mình hỏi Hẹn gặp lại nếu có thể.,goodbye,cho minh hoi hen gap lai neu co the
+Mình muốn biết Hẹn gặp lại nếu có thể.,goodbye,minh muon biet hen gap lai neu co the
+Hẹn gặp lại,goodbye,hen gap lai
+Xin hỏi Hẹn gặp lại giúp mình nhé.,goodbye,xin hoi hen gap lai giup minh nhe
+Mình muốn biết Hẹn gặp lại được không?,goodbye,minh muon biet hen gap lai duoc khong
+Xin hỏi Hẹn gặp lại được không?,goodbye,xin hoi hen gap lai duoc khong
+Bạn có thể cho mình biết Hẹn gặp lại được không?,goodbye,ban co the cho minh biet hen gap lai duoc khong
+Cho mình hỏi Hẹn gặp lại?,goodbye,cho minh hoi hen gap lai
+Bạn có thể cho mình biết Mình đi đây nếu có thể.,goodbye,ban co the cho minh biet minh di day neu co the
+Mình muốn biết Mình đi đây giúp mình nhé.,goodbye,minh muon biet minh di day giup minh nhe
+Bạn có thể cho mình biết Mình đi đây được không?,goodbye,ban co the cho minh biet minh di day duoc khong
+Cho mình hỏi Mình đi đây?,goodbye,cho minh hoi minh di day
+Mình đi đây,goodbye,minh di day
+Bạn có thể cho mình biết Tôi thoát đây nhé được không?,goodbye,ban co the cho minh biet toi thoat day nhe duoc khong
+Mình muốn biết Tôi thoát đây nhé được không?,goodbye,minh muon biet toi thoat day nhe duoc khong
+Tôi thoát đây nhé,goodbye,toi thoat day nhe
+Mình muốn biết Tôi thoát đây nhé?,goodbye,minh muon biet toi thoat day nhe
+Mình muốn biết Tôi thoát đây nhé nếu có thể.,goodbye,minh muon biet toi thoat day nhe neu co the
+Cho mình hỏi Tôi thoát đây nhé nếu có thể.,goodbye,cho minh hoi toi thoat day nhe neu co the
+Cho mình hỏi Tôi thoát đây nhé?,goodbye,cho minh hoi toi thoat day nhe
+Cho mình hỏi Tạm biệt shop?,goodbye,cho minh hoi tam biet shop
+Mình muốn biết Tạm biệt shop được không?,goodbye,minh muon biet tam biet shop duoc khong
+Bạn có thể cho mình biết Tạm biệt shop được không?,goodbye,ban co the cho minh biet tam biet shop duoc khong
+Cho mình hỏi Tạm biệt shop nếu có thể.,goodbye,cho minh hoi tam biet shop neu co the
+Bạn có thể cho mình biết Tạm biệt shop nếu có thể.,goodbye,ban co the cho minh biet tam biet shop neu co the
+Xin hỏi Tạm biệt shop nếu có thể.,goodbye,xin hoi tam biet shop neu co the
+Cho mình hỏi Tạm biệt shop giúp mình nhé.,goodbye,cho minh hoi tam biet shop giup minh nhe
+Tạm biệt shop,goodbye,tam biet shop
+Bạn có thể cho mình biết Gặp lại sau nhé nếu có thể.,goodbye,ban co the cho minh biet gap lai sau nhe neu co the
+Cho mình hỏi Gặp lại sau nhé giúp mình nhé.,goodbye,cho minh hoi gap lai sau nhe giup minh nhe
+Mình muốn biết Gặp lại sau nhé nếu có thể.,goodbye,minh muon biet gap lai sau nhe neu co the
+Cho mình hỏi Gặp lại sau nhé nếu có thể.,goodbye,cho minh hoi gap lai sau nhe neu co the
+Cho mình hỏi Gặp lại sau nhé?,goodbye,cho minh hoi gap lai sau nhe
+Xin hỏi Gặp lại sau nhé được không?,goodbye,xin hoi gap lai sau nhe duoc khong
+Mình muốn biết Gặp lại sau nhé được không?,goodbye,minh muon biet gap lai sau nhe duoc khong
+Gặp lại sau nhé,goodbye,gap lai sau nhe
+Xin hỏi Hẹn gặp lại bạn sau nếu có thể.,goodbye,xin hoi hen gap lai ban sau neu co the
+Hẹn gặp lại bạn sau,goodbye,hen gap lai ban sau
+Mình muốn biết Hẹn gặp lại bạn sau được không?,goodbye,minh muon biet hen gap lai ban sau duoc khong
+Xin hỏi Hẹn gặp lại bạn sau được không?,goodbye,xin hoi hen gap lai ban sau duoc khong
+Cho mình hỏi Hẹn gặp lại bạn sau nếu có thể.,goodbye,cho minh hoi hen gap lai ban sau neu co the
+Bạn có thể cho mình biết Hẹn gặp lại bạn sau được không?,goodbye,ban co the cho minh biet hen gap lai ban sau duoc khong
+Xin hỏi Hẹn gặp lại bạn sau giúp mình nhé.,goodbye,xin hoi hen gap lai ban sau giup minh nhe
+Bạn có thể cho mình biết Hẹn gặp lại bạn sau?,goodbye,ban co the cho minh biet hen gap lai ban sau
+Xin hỏi Thôi tôi off đây?,goodbye,xin hoi thoi toi off day
+Cho mình hỏi Thôi tôi off đây?,goodbye,cho minh hoi thoi toi off day
+Xin hỏi Thôi tôi off đây nếu có thể.,goodbye,xin hoi thoi toi off day neu co the
+Bạn có thể cho mình biết Thôi tôi off đây nếu có thể.,goodbye,ban co the cho minh biet thoi toi off day neu co the
+Cho mình hỏi Thôi tôi off đây nếu có thể.,goodbye,cho minh hoi thoi toi off day neu co the
+Thôi tôi off đây,goodbye,thoi toi off day
+Xin hỏi Chào tạm biệt nha nếu có thể.,goodbye,xin hoi chao tam biet nha neu co the
+Xin hỏi Chào tạm biệt nha giúp mình nhé.,goodbye,xin hoi chao tam biet nha giup minh nhe
+Bạn có thể cho mình biết Chào tạm biệt nha được không?,goodbye,ban co the cho minh biet chao tam biet nha duoc khong
+Chào tạm biệt nha,goodbye,chao tam biet nha
+Bạn có thể cho mình biết Chào tạm biệt nha giúp mình nhé.,goodbye,ban co the cho minh biet chao tam biet nha giup minh nhe
+Cho mình hỏi Chào tạm biệt nha giúp mình nhé.,goodbye,cho minh hoi chao tam biet nha giup minh nhe
+Bạn có thể cho mình biết Chào tạm biệt nha nếu có thể.,goodbye,ban co the cho minh biet chao tam biet nha neu co the
+Mình muốn biết Chào tạm biệt nha giúp mình nhé.,goodbye,minh muon biet chao tam biet nha giup minh nhe
+Xin hỏi Chào tạm biệt nha được không?,goodbye,xin hoi chao tam biet nha duoc khong
+Cho mình hỏi intent nếu có thể.,text,cho minh hoi intent neu co the
+Bạn có thể cho mình biết intent?,text,ban co the cho minh biet intent
+Xin hỏi intent được không?,text,xin hoi intent duoc khong
+Mình muốn biết intent nếu có thể.,text,minh muon biet intent neu co the
+Cho mình hỏi intent giúp mình nhé.,text,cho minh hoi intent giup minh nhe
+intent,text,intent
+Bạn có thể cho mình biết greeting nếu có thể.,xin chào,ban co the cho minh biet greeting neu co the
+Cho mình hỏi greeting được không?,xin chào,cho minh hoi greeting duoc khong
+Cho mình hỏi greeting nếu có thể.,xin chào,cho minh hoi greeting neu co the
+Xin hỏi greeting giúp mình nhé.,xin chào,xin hoi greeting giup minh nhe
+greeting,xin chào,greeting
+Mình muốn biết greeting nếu có thể.,xin chào,minh muon biet greeting neu co the
+Xin hỏi greeting nếu có thể.,xin chào,xin hoi greeting neu co the
+Bạn có thể cho mình biết greeting?,chào bạn,ban co the cho minh biet greeting
+Xin hỏi greeting được không?,chào bạn,xin hoi greeting duoc khong
+Cho mình hỏi greeting?,chào bạn,cho minh hoi greeting
+Xin hỏi greeting?,chào bạn,xin hoi greeting
+Cho mình hỏi greeting nếu có thể.,chào bạn,cho minh hoi greeting neu co the
+Xin hỏi greeting giúp mình nhé.,chào bạn,xin hoi greeting giup minh nhe
+greeting,chào bạn,greeting
+Cho mình hỏi thanks được không?,cảm ơn bạn,cho minh hoi thanks duoc khong
+Bạn có thể cho mình biết thanks giúp mình nhé.,cảm ơn bạn,ban co the cho minh biet thanks giup minh nhe
+Bạn có thể cho mình biết thanks?,cảm ơn bạn,ban co the cho minh biet thanks
+Mình muốn biết thanks được không?,cảm ơn bạn,minh muon biet thanks duoc khong
+thanks,cảm ơn bạn,thanks
+Xin hỏi thanks giúp mình nhé.,cảm ơn bạn,xin hoi thanks giup minh nhe
+Mình muốn biết thanks?,cảm ơn bạn,minh muon biet thanks
+Cho mình hỏi thanks nếu có thể.,cảm ơn bạn,cho minh hoi thanks neu co the
+Xin hỏi goodbye giúp mình nhé.,tạm biệt,xin hoi goodbye giup minh nhe
+Cho mình hỏi goodbye được không?,tạm biệt,cho minh hoi goodbye duoc khong
+Cho mình hỏi goodbye giúp mình nhé.,tạm biệt,cho minh hoi goodbye giup minh nhe
+goodbye,tạm biệt,goodbye
+Cho mình hỏi goodbye?,tạm biệt,cho minh hoi goodbye
+Xin hỏi goodbye?,tạm biệt,xin hoi goodbye
+Bạn có thể cho mình biết find_product giúp mình nhé.,tôi muốn mua sản phẩm,ban co the cho minh biet findproduct giup minh nhe
+Xin hỏi find_product giúp mình nhé.,tôi muốn mua sản phẩm,xin hoi findproduct giup minh nhe
+Xin hỏi find_product được không?,tôi muốn mua sản phẩm,xin hoi findproduct duoc khong
+Mình muốn biết find_product?,tôi muốn mua sản phẩm,minh muon biet findproduct
+Cho mình hỏi find_product được không?,tôi muốn mua sản phẩm,cho minh hoi findproduct duoc khong
+Bạn có thể cho mình biết find_product nếu có thể.,tôi muốn mua sản phẩm,ban co the cho minh biet findproduct neu co the
+find_product,tôi muốn mua sản phẩm,findproduct
+Bạn có thể cho mình biết find_product được không?,giá ly sứ bao nhiêu,ban co the cho minh biet findproduct duoc khong
+Cho mình hỏi find_product giúp mình nhé.,giá ly sứ bao nhiêu,cho minh hoi findproduct giup minh nhe
+Xin hỏi find_product được không?,giá ly sứ bao nhiêu,xin hoi findproduct duoc khong
+Mình muốn biết find_product nếu có thể.,giá ly sứ bao nhiêu,minh muon biet findproduct neu co the
+Bạn có thể cho mình biết find_product nếu có thể.,giá ly sứ bao nhiêu,ban co the cho minh biet findproduct neu co the
+find_product,giá ly sứ bao nhiêu,findproduct
+Mình muốn biết find_product giúp mình nhé.,giá ly sứ bao nhiêu,minh muon biet findproduct giup minh nhe
+Cho mình hỏi find_product giúp mình nhé.,bạn có bán túi canvas không,cho minh hoi findproduct giup minh nhe
+Mình muốn biết find_product?,bạn có bán túi canvas không,minh muon biet findproduct
+Bạn có thể cho mình biết find_product?,bạn có bán túi canvas không,ban co the cho minh biet findproduct
+Bạn có thể cho mình biết find_product nếu có thể.,bạn có bán túi canvas không,ban co the cho minh biet findproduct neu co the
+find_product,bạn có bán túi canvas không,findproduct
+Mình muốn biết find_product giúp mình nhé.,bạn có bán túi canvas không,minh muon biet findproduct giup minh nhe
+Bạn có thể cho mình biết find_product được không?,cho tôi xem sổ tay,ban co the cho minh biet findproduct duoc khong
+Cho mình hỏi find_product giúp mình nhé.,cho tôi xem sổ tay,cho minh hoi findproduct giup minh nhe
+Mình muốn biết find_product?,cho tôi xem sổ tay,minh muon biet findproduct
+Mình muốn biết find_product nếu có thể.,cho tôi xem sổ tay,minh muon biet findproduct neu co the
+Cho mình hỏi find_product được không?,cho tôi xem sổ tay,cho minh hoi findproduct duoc khong
+find_product,cho tôi xem sổ tay,findproduct
+Mình muốn biết find_product giúp mình nhé.,cho tôi xem sổ tay,minh muon biet findproduct giup minh nhe
+Xin hỏi find_product nếu có thể.,cho tôi xem sổ tay,xin hoi findproduct neu co the
+Xin hỏi find_product giúp mình nhé.,có món quà nào cho sinh nhật không,xin hoi findproduct giup minh nhe
+Cho mình hỏi find_product giúp mình nhé.,có món quà nào cho sinh nhật không,cho minh hoi findproduct giup minh nhe
+Mình muốn biết find_product?,có món quà nào cho sinh nhật không,minh muon biet findproduct
+Bạn có thể cho mình biết find_product?,có món quà nào cho sinh nhật không,ban co the cho minh biet findproduct
+Cho mình hỏi find_product nếu có thể.,có món quà nào cho sinh nhật không,cho minh hoi findproduct neu co the
+Mình muốn biết find_product nếu có thể.,có món quà nào cho sinh nhật không,minh muon biet findproduct neu co the
+find_product,có món quà nào cho sinh nhật không,findproduct
+Xin hỏi find_product nếu có thể.,có món quà nào cho sinh nhật không,xin hoi findproduct neu co the
+Cho mình hỏi find_product?,có món quà nào cho sinh nhật không,cho minh hoi findproduct
+unknown,ờ,unknown
+Cho mình hỏi unknown nếu có thể.,ờ,cho minh hoi unknown neu co the
+Xin hỏi unknown nếu có thể.,ờ,xin hoi unknown neu co the
+Mình muốn biết unknown giúp mình nhé.,ờ,minh muon biet unknown giup minh nhe
+Bạn có thể cho mình biết unknown được không?,ờ,ban co the cho minh biet unknown duoc khong
+Bạn có thể cho mình biết unknown?,ờ,ban co the cho minh biet unknown
+Mình muốn biết unknown?,hả,minh muon biet unknown
+unknown,hả,unknown
+Cho mình hỏi unknown được không?,hả,cho minh hoi unknown duoc khong
+Xin hỏi unknown nếu có thể.,hả,xin hoi unknown neu co the
+Mình muốn biết unknown được không?,hả,minh muon biet unknown duoc khong
+Xin hỏi unknown?,hả,xin hoi unknown
+Mình muốn biết unknown giúp mình nhé.,hả,minh muon biet unknown giup minh nhe
+Bạn có thể cho mình biết unknown được không?,hả,ban co the cho minh biet unknown duoc khong
+Mình muốn biết unknown?,là sao,minh muon biet unknown
+unknown,là sao,unknown
+Cho mình hỏi unknown được không?,là sao,cho minh hoi unknown duoc khong
+Mình muốn biết unknown nếu có thể.,là sao,minh muon biet unknown neu co the
+Xin hỏi unknown giúp mình nhé.,là sao,xin hoi unknown giup minh nhe
+Cho mình hỏi unknown?,là sao,cho minh hoi unknown
+Xin hỏi unknown?,là sao,xin hoi unknown
+Bạn có thể cho mình biết unknown nếu có thể.,là sao,ban co the cho minh biet unknown neu co the

@@ -1,0 +1,609 @@
+intent,response
+greeting,Xin chào! Mình có thể giúp gì cho bạn hôm nay?!
+greeting,Xin chào! Mình có thể giúp gì cho bạn hôm nay?
+greeting,Xin chào! Mình có thể giúp gì cho bạn hôm nay? 😊
+greeting,Xin chào! Mình có thể giúp gì cho bạn hôm nay? nhé!
+ask_price,Bạn muốn hỏi mức giá của món hàng nào vậy?!
+ask_price,Bạn muốn hỏi giá của sản phẩm nào vậy?
+ask_price,Bạn muốn hỏi chi phí của mặt hàng nào vậy?!
+ask_price,Bạn muốn hỏi chi phí của món hàng nào vậy?!
+ask_price,Bạn muốn hỏi chi phí của món hàng nào vậy? 😊
+find_product,Để mình xem có những mặt hàng nào phù hợp nhé: nhé!
+find_product,Để mình xem có những món hàng nào phù hợp nhé: 😊
+find_product,Để mình xem có những sản phẩm nào phù hợp nhé:
+find_product,Để mình xem có những đồ nào phù hợp nhé: nhé!
+recommend_gift,"Bạn định tậu món quà cho ai ạ (bạn gái, mẹ, bạn bè...)?!"
+recommend_gift,"Bạn định mua quà cho ai ạ (bạn gái, mẹ, bạn bè...)?"
+recommend_gift,"Bạn định tậu quà tặng cho ai ạ (bạn gái, mẹ, bạn bè...)? 😊"
+recommend_gift,"Bạn định tậu món quà cho ai ạ (bạn gái, mẹ, bạn bè...)? 😊"
+recommend_gift,"Bạn định mua sắm món quà cho ai ạ (bạn gái, mẹ, bạn bè...)? 😊"
+recommend_gift,"Bạn định mua sắm món quà cho ai ạ (bạn gái, mẹ, bạn bè...)? nhé!"
+thanks,Cảm ơn bạn! Rất vui được giúp.!
+thanks,Cảm ơn bạn! Rất vui được giúp.
+thanks,Cảm ơn bạn! Rất vui được giúp. nhé!
+goodbye,"Tạm biệt, hẹn gặp lại bạn sau nhé!"
+goodbye,"Tạm biệt, hẹn gặp lại bạn sau nhé!!"
+goodbye,"Tạm biệt, hẹn gặp lại bạn sau nhé! 😊"
+goodbye,"Tạm biệt, hẹn gặp lại bạn sau nhé! nhé!"
+unknown,"Xin lỗi, mình chưa hiểu rõ câu hỏi của bạn. Bạn nói cụ thể hơn được không?"
+unknown,"Xin lỗi, mình chưa hiểu rõ câu hỏi của bạn. Bạn nói cụ thể hơn được không?!"
+unknown,"Xin lỗi, mình chưa hiểu rõ câu hỏi của bạn. Bạn nói cụ thể hơn được không? 😊"
+product_availability,Sản phẩm này hiện có trong kho nhé!
+product_availability,Sản phẩm này hiện có trong kho nhé! 😊
+product_availability,Sản phẩm này hiện có trong kho nhé!!
+product_availability,Sản phẩm này hiện có trong kho nhé! nhé!
+product_out_of_stock,"Rất tiếc, mặt hàng này hiện đang hết hàng. 😊"
+product_out_of_stock,"Rất tiếc, món hàng này hiện đang hết hàng. nhé!"
+product_out_of_stock,"Rất tiếc, sản phẩm này hiện đang hết hàng."
+product_out_of_stock,"Rất tiếc, món hàng này hiện đang hết hàng. 😊"
+product_out_of_stock,"Rất tiếc, đồ này hiện đang hết hàng. 😊"
+delivery_info,Chúng tôi có hỗ trợ giao hàng tận nơi. Bạn muốn giao tới đâu?
+delivery_info,Chúng tôi có hỗ trợ giao hàng tận nơi. Bạn muốn giao tới đâu? nhé!
+delivery_info,Chúng tôi có hỗ trợ giao hàng tận nơi. Bạn muốn giao tới đâu? 😊
+store_location,"Cửa hàng chúng tôi nằm tại số 123, đường ABC, quận XYZ. nhé!"
+store_location,"Cửa hàng chúng tôi nằm tại số 123, đường ABC, quận XYZ.!"
+store_location,"Cửa hàng chúng tôi nằm tại số 123, đường ABC, quận XYZ."
+return_policy,Bạn có thể trả hoặc đổi đồ trong vòng 7 ngày kể từ khi nhận hàng. 😊
+return_policy,Bạn có thể trả hoặc đổi mặt hàng trong vòng 7 ngày kể từ khi nhận hàng.!
+return_policy,Bạn có thể trả hoặc đổi sản phẩm trong vòng 7 ngày kể từ khi nhận hàng.
+return_policy,Bạn có thể trả hoặc đổi đồ trong vòng 7 ngày kể từ khi nhận hàng. nhé!
+return_policy,Bạn có thể trả hoặc đổi món hàng trong vòng 7 ngày kể từ khi nhận hàng. 😊
+payment_methods,"Chúng tôi chấp nhận thanh toán bằng thẻ, chuyển khoản hoặc tiền mặt. 😊"
+payment_methods,"Chúng tôi chấp nhận thanh toán bằng thẻ, chuyển khoản hoặc tiền mặt.!"
+payment_methods,"Chúng tôi chấp nhận thanh toán bằng thẻ, chuyển khoản hoặc tiền mặt."
+payment_methods,"Chúng tôi chấp nhận thanh toán bằng thẻ, chuyển khoản hoặc tiền mặt. nhé!"
+gift_wrapping,Chúng tôi có gói món quà miễn phí. Bạn có muốn gói không?!
+gift_wrapping,Chúng tôi có gói quà miễn phí. Bạn có muốn gói không?
+gift_wrapping,Chúng tôi có gói quà tặng miễn phí. Bạn có muốn gói không?!
+gift_wrapping,Chúng tôi có gói tặng phẩm miễn phí. Bạn có muốn gói không? nhé!
+gift_wrapping,Chúng tôi có gói món quà miễn phí. Bạn có muốn gói không? 😊
+promotion_info,Hiện đang có chương trình giảm giá tiền 10% cho khách hàng thân thiết. 😊
+promotion_info,Hiện đang có chương trình giảm mức giá 10% cho khách hàng thân thiết. 😊
+promotion_info,Hiện đang có chương trình giảm giá tiền 10% cho khách hàng thân thiết.!
+promotion_info,Hiện đang có chương trình giảm giá 10% cho khách hàng thân thiết.
+promotion_info,Hiện đang có chương trình giảm chi phí 10% cho khách hàng thân thiết.!
+promotion_info,Hiện đang có chương trình giảm mức giá 10% cho khách hàng thân thiết.!
+product_material,Sản phẩm được làm từ gỗ/đá/gốm sứ tùy loại. 😊
+product_material,Sản phẩm được làm từ gỗ/đá/gốm sứ tùy loại.
+product_material,Sản phẩm được làm từ gỗ/đá/gốm sứ tùy loại. nhé!
+product_size,"Sản phẩm có nhiều kích thước khác nhau, bạn muốn xem size nào? nhé!"
+product_size,"Sản phẩm có nhiều kích thước khác nhau, bạn muốn xem size nào?"
+product_size,"Sản phẩm có nhiều kích thước khác nhau, bạn muốn xem size nào? 😊"
+product_color_options,"Sản phẩm có các màu: đỏ, xanh, vàng, trắng. 😊"
+product_color_options,"Sản phẩm có các màu: đỏ, xanh, vàng, trắng.!"
+product_color_options,"Sản phẩm có các màu: đỏ, xanh, vàng, trắng."
+product_color_options,"Sản phẩm có các màu: đỏ, xanh, vàng, trắng. nhé!"
+order_status,Bạn vui lòng cung cấp mã đơn hàng để mình kiểm tra nhé.!
+order_status,Bạn vui lòng cung cấp mã đơn hàng để mình kiểm tra nhé.
+order_status,Bạn vui lòng cung cấp mã đơn hàng để mình kiểm tra nhé. nhé!
+order_status,Bạn vui lòng cung cấp mã đơn hàng để mình kiểm tra nhé. 😊
+custom_order,Chúng tôi có nhận đặt hàng theo yêu cầu. Bạn muốn thiết kế như thế nào? nhé!
+custom_order,Chúng tôi có nhận đặt hàng theo yêu cầu. Bạn muốn thiết kế như thế nào?
+custom_order,Chúng tôi có nhận đặt hàng theo yêu cầu. Bạn muốn thiết kế như thế nào?!
+custom_order,Chúng tôi có nhận đặt hàng theo yêu cầu. Bạn muốn thiết kế như thế nào? 😊
+return_process,Bạn chỉ cần mang sản phẩm đến cửa hàng hoặc gửi lại qua bưu điện.
+return_process,Bạn chỉ cần mang mặt hàng đến cửa hàng hoặc gửi lại qua bưu điện. 😊
+return_process,Bạn chỉ cần mang món hàng đến cửa hàng hoặc gửi lại qua bưu điện.!
+return_process,Bạn chỉ cần mang đồ đến cửa hàng hoặc gửi lại qua bưu điện.!
+return_process,Bạn chỉ cần mang mặt hàng đến cửa hàng hoặc gửi lại qua bưu điện. nhé!
+bulk_order,"Nếu bạn muốn mua sắm số lượng lớn, mình có thể hỗ trợ báo giá tiền riêng.!"
+bulk_order,"Nếu bạn muốn mua số lượng lớn, mình có thể hỗ trợ báo giá riêng."
+bulk_order,"Nếu bạn muốn sắm số lượng lớn, mình có thể hỗ trợ báo chi phí riêng.!"
+bulk_order,"Nếu bạn muốn mua sắm số lượng lớn, mình có thể hỗ trợ báo chi phí riêng.!"
+bulk_order,"Nếu bạn muốn tậu số lượng lớn, mình có thể hỗ trợ báo mức giá riêng.!"
+bulk_order,"Nếu bạn muốn mua sắm số lượng lớn, mình có thể hỗ trợ báo mức giá riêng.!"
+product_recommendation,Bạn có thể tham khảo những mặt hàng sau phù hợp với sở thích của bạn. 😊
+product_recommendation,Bạn có thể tham khảo những mặt hàng sau phù hợp với sở thích của bạn. nhé!
+product_recommendation,Bạn có thể tham khảo những sản phẩm sau phù hợp với sở thích của bạn.
+product_recommendation,Bạn có thể tham khảo những món hàng sau phù hợp với sở thích của bạn.!
+product_recommendation,Bạn có thể tham khảo những món hàng sau phù hợp với sở thích của bạn. nhé!
+loyalty_program,"Chúng tôi có chương trình khách hàng thân thiết, bạn muốn tham gia không? 😊"
+loyalty_program,"Chúng tôi có chương trình khách hàng thân thiết, bạn muốn tham gia không?"
+loyalty_program,"Chúng tôi có chương trình khách hàng thân thiết, bạn muốn tham gia không? nhé!"
+loyalty_program,"Chúng tôi có chương trình khách hàng thân thiết, bạn muốn tham gia không?!"
+store_opening_hours,Cửa hàng mở từ 8h sáng đến 8h tối mỗi ngày.!
+store_opening_hours,Cửa hàng mở từ 8h sáng đến 8h tối mỗi ngày. 😊
+store_opening_hours,Cửa hàng mở từ 8h sáng đến 8h tối mỗi ngày.
+store_contact_info,Bạn có thể liên hệ qua số 0123-456-789 hoặc email shop@example.com. nhé!
+store_contact_info,Bạn có thể liên hệ qua số 0123-456-789 hoặc email shop@example.com.
+store_contact_info,Bạn có thể liên hệ qua số 0123-456-789 hoặc email shop@example.com. 😊
+store_contact_info,Bạn có thể liên hệ qua số 0123-456-789 hoặc email shop@example.com.!
+new_arrivals,"Hiện tại có một số món hàng mới về, bạn có muốn xem không?!"
+new_arrivals,"Hiện tại có một số sản phẩm mới về, bạn có muốn xem không?"
+new_arrivals,"Hiện tại có một số đồ mới về, bạn có muốn xem không? nhé!"
+new_arrivals,"Hiện tại có một số đồ mới về, bạn có muốn xem không?!"
+new_arrivals,"Hiện tại có một số đồ mới về, bạn có muốn xem không? 😊"
+best_seller,Những mặt hàng bán chạy nhất hiện tại là những món này...!
+best_seller,Những đồ bán chạy nhất hiện tại là những món này...!
+best_seller,Những đồ bán chạy nhất hiện tại là những món này... nhé!
+best_seller,Những sản phẩm bán chạy nhất hiện tại là những món này...
+best_seller,Những món hàng bán chạy nhất hiện tại là những món này...!
+special_offer,Hiện có chương trình tậu 1 tặng 1 cho một số mặt hàng.!
+special_offer,Hiện có chương trình mua 1 tặng 1 cho một số sản phẩm.
+special_offer,Hiện có chương trình sắm 1 tặng 1 cho một số mặt hàng.!
+special_offer,Hiện có chương trình mua sắm 1 tặng 1 cho một số món hàng. nhé!
+special_offer,Hiện có chương trình sắm 1 tặng 1 cho một số đồ. 😊
+product_description,"Sản phẩm này rất tinh xảo, thích hợp làm món quà lưu niệm.!"
+product_description,"Sản phẩm này rất tinh xảo, thích hợp làm quà lưu niệm."
+product_description,"Sản phẩm này rất tinh xảo, thích hợp làm quà tặng lưu niệm.!"
+product_description,"Sản phẩm này rất tinh xảo, thích hợp làm quà tặng lưu niệm. 😊"
+complaint_handling,"Mình rất tiếc về trải nghiệm của bạn, bạn có thể mô tả sự cố để mình hỗ trợ? 😊"
+complaint_handling,"Mình rất tiếc về trải nghiệm của bạn, bạn có thể mô tả sự cố để mình hỗ trợ? nhé!"
+complaint_handling,"Mình rất tiếc về trải nghiệm của bạn, bạn có thể mô tả sự cố để mình hỗ trợ?"
+complaint_handling,"Mình rất tiếc về trải nghiệm của bạn, bạn có thể mô tả sự cố để mình hỗ trợ?!"
+feedback_request,Bạn có thể cho mình biết cảm nhận về mặt hàng không? nhé!
+feedback_request,Bạn có thể cho mình biết cảm nhận về món hàng không? 😊
+feedback_request,Bạn có thể cho mình biết cảm nhận về món hàng không? nhé!
+feedback_request,Bạn có thể cho mình biết cảm nhận về đồ không? nhé!
+feedback_request,Bạn có thể cho mình biết cảm nhận về sản phẩm không?
+product_recommend_for_birthday,"Nếu bạn muốn tặng sinh nhật, mình gợi ý những món món quà này... nhé!"
+product_recommend_for_birthday,"Nếu bạn muốn tặng sinh nhật, mình gợi ý những món quà tặng này... 😊"
+product_recommend_for_birthday,"Nếu bạn muốn tặng sinh nhật, mình gợi ý những món quà tặng này... nhé!"
+product_recommend_for_birthday,"Nếu bạn muốn tặng sinh nhật, mình gợi ý những món quà này..."
+product_recommend_for_birthday,"Nếu bạn muốn tặng sinh nhật, mình gợi ý những món tặng phẩm này... 😊"
+product_recommend_for_anniversary,"Nếu bạn muốn tặng kỷ niệm, bạn có thể chọn những món hàng này... nhé!"
+product_recommend_for_anniversary,"Nếu bạn muốn tặng kỷ niệm, bạn có thể chọn những đồ này... nhé!"
+product_recommend_for_anniversary,"Nếu bạn muốn tặng kỷ niệm, bạn có thể chọn những món hàng này...!"
+product_recommend_for_anniversary,"Nếu bạn muốn tặng kỷ niệm, bạn có thể chọn những đồ này... 😊"
+product_recommend_for_anniversary,"Nếu bạn muốn tặng kỷ niệm, bạn có thể chọn những sản phẩm này..."
+product_recommend_for_anniversary,"Nếu bạn muốn tặng kỷ niệm, bạn có thể chọn những mặt hàng này...!"
+product_recommend_for_friend,"Bạn muốn tặng bạn bè, mình có vài gợi ý vui nhộn đây..."
+product_recommend_for_friend,"Bạn muốn tặng bạn bè, mình có vài gợi ý vui nhộn đây... 😊"
+product_recommend_for_friend,"Bạn muốn tặng bạn bè, mình có vài gợi ý vui nhộn đây... nhé!"
+product_recommend_for_parents,"Bạn muốn tặng bố mẹ, những sản phẩm này rất phù hợp."
+product_recommend_for_parents,"Bạn muốn tặng bố mẹ, những món hàng này rất phù hợp. nhé!"
+product_recommend_for_parents,"Bạn muốn tặng bố mẹ, những món hàng này rất phù hợp.!"
+product_recommend_for_colleague,"Nếu tặng đồng nghiệp, mình gợi ý những món tặng phẩm lịch sự và nhỏ gọn. 😊"
+product_recommend_for_colleague,"Nếu tặng đồng nghiệp, mình gợi ý những món quà lịch sự và nhỏ gọn."
+product_recommend_for_colleague,"Nếu tặng đồng nghiệp, mình gợi ý những món món quà lịch sự và nhỏ gọn.!"
+product_recommend_for_colleague,"Nếu tặng đồng nghiệp, mình gợi ý những món quà tặng lịch sự và nhỏ gọn. 😊"
+product_recommend_for_colleague,"Nếu tặng đồng nghiệp, mình gợi ý những món tặng phẩm lịch sự và nhỏ gọn. nhé!"
+gift_budget_low,"Bạn muốn chọn tặng phẩm trong tầm giá tiền thấp, mình có vài lựa chọn. nhé!"
+gift_budget_low,"Bạn muốn chọn tặng phẩm trong tầm chi phí thấp, mình có vài lựa chọn. 😊"
+gift_budget_low,"Bạn muốn chọn món quà trong tầm mức giá thấp, mình có vài lựa chọn. 😊"
+gift_budget_low,"Bạn muốn chọn tặng phẩm trong tầm chi phí thấp, mình có vài lựa chọn.!"
+gift_budget_low,"Bạn muốn chọn quà tặng trong tầm mức giá thấp, mình có vài lựa chọn.!"
+gift_budget_low,"Bạn muốn chọn quà trong tầm giá thấp, mình có vài lựa chọn."
+gift_budget_medium,"Bạn muốn chọn quà tặng tầm trung, những món sau rất phù hợp. 😊"
+gift_budget_medium,"Bạn muốn chọn quà tặng tầm trung, những món sau rất phù hợp.!"
+gift_budget_medium,"Bạn muốn chọn quà tầm trung, những món sau rất phù hợp."
+gift_budget_medium,"Bạn muốn chọn tặng phẩm tầm trung, những món sau rất phù hợp.!"
+gift_budget_medium,"Bạn muốn chọn quà tặng tầm trung, những món sau rất phù hợp. nhé!"
+gift_budget_high,"Bạn muốn chọn quà cao cấp, mình gợi ý những món sang trọng."
+gift_budget_high,"Bạn muốn chọn món quà cao cấp, mình gợi ý những món sang trọng.!"
+gift_budget_high,"Bạn muốn chọn tặng phẩm cao cấp, mình gợi ý những món sang trọng.!"
+gift_budget_high,"Bạn muốn chọn món quà cao cấp, mình gợi ý những món sang trọng. 😊"
+gift_budget_high,"Bạn muốn chọn quà tặng cao cấp, mình gợi ý những món sang trọng. nhé!"
+gift_budget_high,"Bạn muốn chọn quà tặng cao cấp, mình gợi ý những món sang trọng. 😊"
+store_holiday_schedule,"Cửa hàng sẽ nghỉ lễ vào các ngày 1/1, 30/4, 1/5 và 2/9.!"
+store_holiday_schedule,"Cửa hàng sẽ nghỉ lễ vào các ngày 1/1, 30/4, 1/5 và 2/9. nhé!"
+store_holiday_schedule,"Cửa hàng sẽ nghỉ lễ vào các ngày 1/1, 30/4, 1/5 và 2/9."
+product_care_instructions,Bạn nên vệ sinh đồ bằng khăn mềm và tránh nước trực tiếp. 😊
+product_care_instructions,Bạn nên vệ sinh món hàng bằng khăn mềm và tránh nước trực tiếp.!
+product_care_instructions,Bạn nên vệ sinh đồ bằng khăn mềm và tránh nước trực tiếp.!
+product_care_instructions,Bạn nên vệ sinh mặt hàng bằng khăn mềm và tránh nước trực tiếp. 😊
+product_care_instructions,Bạn nên vệ sinh sản phẩm bằng khăn mềm và tránh nước trực tiếp.
+product_care_instructions,Bạn nên vệ sinh mặt hàng bằng khăn mềm và tránh nước trực tiếp. nhé!
+gift_personalization,Chúng tôi có dịch vụ khắc tên hoặc ghi thông điệp lên sản phẩm.
+gift_personalization,Chúng tôi có dịch vụ khắc tên hoặc ghi thông điệp lên đồ. nhé!
+gift_personalization,Chúng tôi có dịch vụ khắc tên hoặc ghi thông điệp lên đồ. 😊
+gift_personalization,Chúng tôi có dịch vụ khắc tên hoặc ghi thông điệp lên mặt hàng. 😊
+gift_personalization,Chúng tôi có dịch vụ khắc tên hoặc ghi thông điệp lên mặt hàng. nhé!
+product_comparison,Bạn muốn so sánh đồ nào với nhau? 😊
+product_comparison,Bạn muốn so sánh món hàng nào với nhau? 😊
+product_comparison,Bạn muốn so sánh sản phẩm nào với nhau?
+product_comparison,Bạn muốn so sánh đồ nào với nhau? nhé!
+pre_order_info,"Một số sản phẩm mới có thể đặt trước, bạn muốn đặt không?"
+pre_order_info,"Một số món hàng mới có thể đặt trước, bạn muốn đặt không?!"
+pre_order_info,"Một số mặt hàng mới có thể đặt trước, bạn muốn đặt không? 😊"
+pre_order_info,"Một số đồ mới có thể đặt trước, bạn muốn đặt không?!"
+pre_order_info,"Một số mặt hàng mới có thể đặt trước, bạn muốn đặt không?!"
+special_packaging,Chúng tôi có bao bì tặng phẩm đặc biệt cho dịp lễ. nhé!
+special_packaging,Chúng tôi có bao bì món quà đặc biệt cho dịp lễ.!
+special_packaging,Chúng tôi có bao bì tặng phẩm đặc biệt cho dịp lễ.!
+special_packaging,Chúng tôi có bao bì quà đặc biệt cho dịp lễ.
+special_packaging,Chúng tôi có bao bì quà tặng đặc biệt cho dịp lễ. 😊
+bulk_discount,"Mua nhiều món hàng sẽ được giảm chi phí, bạn có muốn biết chi tiết? nhé!"
+bulk_discount,"Mua nhiều mặt hàng sẽ được giảm chi phí, bạn có muốn biết chi tiết? nhé!"
+bulk_discount,"Mua nhiều sản phẩm sẽ được giảm giá, bạn có muốn biết chi tiết?"
+bulk_discount,"Mua nhiều đồ sẽ được giảm chi phí, bạn có muốn biết chi tiết? 😊"
+bulk_discount,"Mua nhiều đồ sẽ được giảm giá tiền, bạn có muốn biết chi tiết?!"
+bulk_discount,"Mua nhiều món hàng sẽ được giảm mức giá, bạn có muốn biết chi tiết? nhé!"
+membership_discount,Thành viên cửa hàng sẽ được ưu đãi thêm 5%.
+membership_discount,Thành viên cửa hàng sẽ được ưu đãi thêm 5%.!
+membership_discount,Thành viên cửa hàng sẽ được ưu đãi thêm 5%. 😊
+membership_discount,Thành viên cửa hàng sẽ được ưu đãi thêm 5%. nhé!
+order_tracking,Bạn có thể theo dõi đơn hàng qua link chúng tôi gửi. nhé!
+order_tracking,Bạn có thể theo dõi đơn hàng qua link chúng tôi gửi.
+order_tracking,Bạn có thể theo dõi đơn hàng qua link chúng tôi gửi. 😊
+payment_installment,Chúng tôi hỗ trợ thanh toán trả góp với lãi suất 0%.!
+payment_installment,Chúng tôi hỗ trợ thanh toán trả góp với lãi suất 0%.
+payment_installment,Chúng tôi hỗ trợ thanh toán trả góp với lãi suất 0%. 😊
+payment_installment,Chúng tôi hỗ trợ thanh toán trả góp với lãi suất 0%. nhé!
+product_origin,"Sản phẩm được nhập khẩu từ Nhật Bản, Hàn Quốc, Việt Nam...!"
+product_origin,"Sản phẩm được nhập khẩu từ Nhật Bản, Hàn Quốc, Việt Nam..."
+product_origin,"Sản phẩm được nhập khẩu từ Nhật Bản, Hàn Quốc, Việt Nam... 😊"
+product_certification,Sản phẩm có giấy chứng nhận chất lượng. nhé!
+product_certification,Sản phẩm có giấy chứng nhận chất lượng.!
+product_certification,Sản phẩm có giấy chứng nhận chất lượng.
+return_condition,"Sản phẩm phải còn nguyên vẹn, chưa qua sử dụng để được đổi trả. nhé!"
+return_condition,"Sản phẩm phải còn nguyên vẹn, chưa qua sử dụng để được đổi trả."
+return_condition,"Sản phẩm phải còn nguyên vẹn, chưa qua sử dụng để được đổi trả. 😊"
+gift_suggestion_for_kid,"Bạn muốn tặng trẻ em, mình gợi ý những món dễ thương và an toàn.!"
+gift_suggestion_for_kid,"Bạn muốn tặng trẻ em, mình gợi ý những món dễ thương và an toàn. nhé!"
+gift_suggestion_for_kid,"Bạn muốn tặng trẻ em, mình gợi ý những món dễ thương và an toàn."
+gift_suggestion_for_teen,"Bạn muốn tặng tuổi teen, mình có vài gợi ý phong cách."
+gift_suggestion_for_teen,"Bạn muốn tặng tuổi teen, mình có vài gợi ý phong cách.!"
+gift_suggestion_for_teen,"Bạn muốn tặng tuổi teen, mình có vài gợi ý phong cách. 😊"
+gift_suggestion_for_adult,"Bạn muốn tặng người lớn, đây là những món phổ biến."
+gift_suggestion_for_adult,"Bạn muốn tặng người lớn, đây là những món phổ biến. nhé!"
+gift_suggestion_for_adult,"Bạn muốn tặng người lớn, đây là những món phổ biến.!"
+gift_suggestion_for_adult,"Bạn muốn tặng người lớn, đây là những món phổ biến. 😊"
+gift_suggestion_for_travel,"Nếu bạn muốn tặng người thích đi du lịch, những món sau phù hợp. nhé!"
+gift_suggestion_for_travel,"Nếu bạn muốn tặng người thích đi du lịch, những món sau phù hợp. 😊"
+gift_suggestion_for_travel,"Nếu bạn muốn tặng người thích đi du lịch, những món sau phù hợp."
+product_set_offer,"Một số sản phẩm bán theo bộ, bạn có muốn mua cả bộ không?"
+product_set_offer,"Một số mặt hàng bán theo bộ, bạn có muốn sắm cả bộ không? nhé!"
+product_set_offer,"Một số món hàng bán theo bộ, bạn có muốn sắm cả bộ không?!"
+product_set_offer,"Một số mặt hàng bán theo bộ, bạn có muốn tậu cả bộ không?!"
+product_set_offer,"Một số món hàng bán theo bộ, bạn có muốn sắm cả bộ không? nhé!"
+product_set_offer,"Một số mặt hàng bán theo bộ, bạn có muốn mua sắm cả bộ không?!"
+gift_wrapping_fee,"Gói quà có phí 10.000 VND, bạn có muốn thêm không?"
+gift_wrapping_fee,"Gói quà tặng có phí 10.000 VND, bạn có muốn thêm không? nhé!"
+gift_wrapping_fee,"Gói quà tặng có phí 10.000 VND, bạn có muốn thêm không? 😊"
+gift_wrapping_fee,"Gói món quà có phí 10.000 VND, bạn có muốn thêm không? nhé!"
+gift_wrapping_fee,"Gói tặng phẩm có phí 10.000 VND, bạn có muốn thêm không? nhé!"
+store_event,"Sắp tới cửa hàng có workshop làm quà lưu niệm, bạn có muốn tham gia?"
+store_event,"Sắp tới cửa hàng có workshop làm món quà lưu niệm, bạn có muốn tham gia?!"
+store_event,"Sắp tới cửa hàng có workshop làm tặng phẩm lưu niệm, bạn có muốn tham gia?!"
+store_event,"Sắp tới cửa hàng có workshop làm món quà lưu niệm, bạn có muốn tham gia? 😊"
+store_event,"Sắp tới cửa hàng có workshop làm quà tặng lưu niệm, bạn có muốn tham gia?!"
+subscription_service,"Chúng tôi có dịch vụ đăng ký món hàng theo tháng, bạn muốn tìm hiểu không?!"
+subscription_service,"Chúng tôi có dịch vụ đăng ký món hàng theo tháng, bạn muốn tìm hiểu không? 😊"
+subscription_service,"Chúng tôi có dịch vụ đăng ký món hàng theo tháng, bạn muốn tìm hiểu không? nhé!"
+subscription_service,"Chúng tôi có dịch vụ đăng ký đồ theo tháng, bạn muốn tìm hiểu không?!"
+subscription_service,"Chúng tôi có dịch vụ đăng ký sản phẩm theo tháng, bạn muốn tìm hiểu không?"
+gift_occasion_new_year,"Nếu dịp Tết, mình gợi ý những món quà tặng may mắn và phong thủy. nhé!"
+gift_occasion_new_year,"Nếu dịp Tết, mình gợi ý những món tặng phẩm may mắn và phong thủy. 😊"
+gift_occasion_new_year,"Nếu dịp Tết, mình gợi ý những món quà may mắn và phong thủy."
+gift_occasion_new_year,"Nếu dịp Tết, mình gợi ý những món món quà may mắn và phong thủy.!"
+gift_occasion_valentine,"Nếu dịp Valentine, đây là các món món quà ý nghĩa cho người yêu. 😊"
+gift_occasion_valentine,"Nếu dịp Valentine, đây là các món quà ý nghĩa cho người yêu."
+gift_occasion_valentine,"Nếu dịp Valentine, đây là các món món quà ý nghĩa cho người yêu.!"
+gift_occasion_valentine,"Nếu dịp Valentine, đây là các món món quà ý nghĩa cho người yêu. nhé!"
+gift_occasion_mother_day,"Nếu dịp Ngày của Mẹ, bạn có thể chọn những món tặng phẩm sau...!"
+gift_occasion_mother_day,"Nếu dịp Ngày của Mẹ, bạn có thể chọn những món quà tặng sau...!"
+gift_occasion_mother_day,"Nếu dịp Ngày của Mẹ, bạn có thể chọn những món quà tặng sau... 😊"
+gift_occasion_mother_day,"Nếu dịp Ngày của Mẹ, bạn có thể chọn những món quà sau..."
+gift_occasion_mother_day,"Nếu dịp Ngày của Mẹ, bạn có thể chọn những món tặng phẩm sau... 😊"
+gift_occasion_father_day,"Nếu dịp Ngày của Bố, bạn có thể tham khảo những món sau...!"
+gift_occasion_father_day,"Nếu dịp Ngày của Bố, bạn có thể tham khảo những món sau... nhé!"
+gift_occasion_father_day,"Nếu dịp Ngày của Bố, bạn có thể tham khảo những món sau..."
+customer_support_online,Bạn có thể chat trực tiếp với nhân viên để được hỗ trợ nhanh.!
+customer_support_online,Bạn có thể chat trực tiếp với nhân viên để được hỗ trợ nhanh. 😊
+customer_support_online,Bạn có thể chat trực tiếp với nhân viên để được hỗ trợ nhanh. nhé!
+customer_support_online,Bạn có thể chat trực tiếp với nhân viên để được hỗ trợ nhanh.
+feedback_positive,Cảm ơn bạn đã phản hồi tích cực! 😊
+feedback_positive,Cảm ơn bạn đã phản hồi tích cực!
+feedback_positive,Cảm ơn bạn đã phản hồi tích cực! nhé!
+feedback_positive,Cảm ơn bạn đã phản hồi tích cực!!
+feedback_negative,Mình đã ghi nhận phản hồi của bạn và sẽ cải thiện dịch vụ.!
+feedback_negative,Mình đã ghi nhận phản hồi của bạn và sẽ cải thiện dịch vụ.
+product_return_address,Bạn có thể gửi đồ về địa chỉ cửa hàng để đổi trả. 😊
+product_return_address,Bạn có thể gửi mặt hàng về địa chỉ cửa hàng để đổi trả.!
+product_return_address,Bạn có thể gửi sản phẩm về địa chỉ cửa hàng để đổi trả.
+product_return_address,Bạn có thể gửi món hàng về địa chỉ cửa hàng để đổi trả. nhé!
+product_return_address,Bạn có thể gửi mặt hàng về địa chỉ cửa hàng để đổi trả. 😊
+product_return_address,Bạn có thể gửi mặt hàng về địa chỉ cửa hàng để đổi trả. nhé!
+product_warranty,Sản phẩm có bảo hành 6 tháng kể từ ngày tậu.!
+product_warranty,Sản phẩm có bảo hành 6 tháng kể từ ngày mua.
+product_warranty,Sản phẩm có bảo hành 6 tháng kể từ ngày mua sắm.!
+product_warranty,Sản phẩm có bảo hành 6 tháng kể từ ngày tậu. 😊
+product_warranty,Sản phẩm có bảo hành 6 tháng kể từ ngày sắm.!
+product_custom_request,Bạn muốn thay đổi thiết kế hay thêm chi tiết gì cho đồ? nhé!
+product_custom_request,Bạn muốn thay đổi thiết kế hay thêm chi tiết gì cho món hàng?!
+product_custom_request,Bạn muốn thay đổi thiết kế hay thêm chi tiết gì cho mặt hàng?!
+product_custom_request,Bạn muốn thay đổi thiết kế hay thêm chi tiết gì cho sản phẩm?
+product_custom_request,Bạn muốn thay đổi thiết kế hay thêm chi tiết gì cho đồ? 😊
+product_custom_request,Bạn muốn thay đổi thiết kế hay thêm chi tiết gì cho món hàng? 😊
+order_cancellation,Bạn có thể hủy đơn hàng trước khi sản phẩm được giao.
+order_cancellation,Bạn có thể hủy đơn hàng trước khi mặt hàng được giao.!
+order_cancellation,Bạn có thể hủy đơn hàng trước khi mặt hàng được giao. nhé!
+order_cancellation,Bạn có thể hủy đơn hàng trước khi món hàng được giao.!
+order_cancellation,Bạn có thể hủy đơn hàng trước khi món hàng được giao. nhé!
+order_modification,Bạn có thể chỉnh sửa đơn hàng trước khi chúng được vận chuyển.
+order_modification,Bạn có thể chỉnh sửa đơn hàng trước khi chúng được vận chuyển.!
+order_modification,Bạn có thể chỉnh sửa đơn hàng trước khi chúng được vận chuyển. 😊
+order_modification,Bạn có thể chỉnh sửa đơn hàng trước khi chúng được vận chuyển. nhé!
+product_sample_request,Bạn muốn nhận mẫu thử trước khi sắm không? nhé!
+product_sample_request,Bạn muốn nhận mẫu thử trước khi mua không?
+product_sample_request,Bạn muốn nhận mẫu thử trước khi mua sắm không? 😊
+product_sample_request,Bạn muốn nhận mẫu thử trước khi tậu không?!
+product_sample_request,Bạn muốn nhận mẫu thử trước khi mua sắm không? nhé!
+gift_inspiration,"Nếu bạn chưa biết chọn gì, đây là một số ý tưởng quà tặng."
+gift_inspiration,"Nếu bạn chưa biết chọn gì, đây là một số ý tưởng tặng phẩm tặng. nhé!"
+gift_inspiration,"Nếu bạn chưa biết chọn gì, đây là một số ý tưởng món quà tặng.!"
+gift_inspiration,"Nếu bạn chưa biết chọn gì, đây là một số ý tưởng tặng phẩm tặng.!"
+gift_inspiration,"Nếu bạn chưa biết chọn gì, đây là một số ý tưởng món quà tặng. nhé!"
+gift_inspiration,"Nếu bạn chưa biết chọn gì, đây là một số ý tưởng quà tặng tặng.!"
+intent,response
+intent,response nhé!
+intent,response 😊
+intent,response!
+gift_occasion_wedding,"Nếu bạn muốn tặng món quà cưới, bạn có thể tham khảo những mặt hàng này... nhé!"
+gift_occasion_wedding,"Nếu bạn muốn tặng quà tặng cưới, bạn có thể tham khảo những món hàng này... 😊"
+gift_occasion_wedding,"Nếu bạn muốn tặng món quà cưới, bạn có thể tham khảo những đồ này...!"
+gift_occasion_wedding,"Nếu bạn muốn tặng quà cưới, bạn có thể tham khảo những sản phẩm này..."
+gift_occasion_wedding,"Nếu bạn muốn tặng tặng phẩm cưới, bạn có thể tham khảo những món hàng này... 😊"
+gift_occasion_wedding,"Nếu bạn muốn tặng quà tặng cưới, bạn có thể tham khảo những món hàng này...!"
+gift_occasion_baby_shower,"Dành cho dịp chào đời em bé, đây là các món tặng phẩm thích hợp.!"
+gift_occasion_baby_shower,"Dành cho dịp chào đời em bé, đây là các món tặng phẩm thích hợp. 😊"
+gift_occasion_baby_shower,"Dành cho dịp chào đời em bé, đây là các món tặng phẩm thích hợp. nhé!"
+gift_occasion_baby_shower,"Dành cho dịp chào đời em bé, đây là các món quà tặng thích hợp.!"
+gift_occasion_baby_shower,"Dành cho dịp chào đời em bé, đây là các món món quà thích hợp. nhé!"
+gift_occasion_baby_shower,"Dành cho dịp chào đời em bé, đây là các món quà thích hợp."
+gift_occasion_graduation,"Nếu tặng tốt nghiệp, bạn có thể chọn những món kỷ niệm này.!"
+gift_occasion_graduation,"Nếu tặng tốt nghiệp, bạn có thể chọn những món kỷ niệm này."
+gift_occasion_graduation,"Nếu tặng tốt nghiệp, bạn có thể chọn những món kỷ niệm này. 😊"
+gift_occasion_housewarming,Mình gợi ý các món quà tặng ý nghĩa cho dịp tân gia. nhé!
+gift_occasion_housewarming,Mình gợi ý các món quà ý nghĩa cho dịp tân gia.
+gift_occasion_housewarming,Mình gợi ý các món món quà ý nghĩa cho dịp tân gia. 😊
+gift_occasion_housewarming,Mình gợi ý các món món quà ý nghĩa cho dịp tân gia. nhé!
+gift_occasion_housewarming,Mình gợi ý các món tặng phẩm ý nghĩa cho dịp tân gia. nhé!
+gift_occasion_anniversary,"Bạn muốn kỷ niệm ngày cưới hay quan hệ, mình có vài gợi ý.!"
+gift_occasion_anniversary,"Bạn muốn kỷ niệm ngày cưới hay quan hệ, mình có vài gợi ý."
+gift_occasion_anniversary,"Bạn muốn kỷ niệm ngày cưới hay quan hệ, mình có vài gợi ý. 😊"
+eco_friendly_product,Chúng tôi có các sản phẩm thân thiện môi trường.
+eco_friendly_product,Chúng tôi có các món hàng thân thiện môi trường.!
+eco_friendly_product,Chúng tôi có các mặt hàng thân thiện môi trường.!
+handmade_product,Các đồ thủ công tại cửa hàng rất tinh xảo. nhé!
+handmade_product,Các đồ thủ công tại cửa hàng rất tinh xảo. 😊
+handmade_product,Các đồ thủ công tại cửa hàng rất tinh xảo.!
+handmade_product,Các món hàng thủ công tại cửa hàng rất tinh xảo. nhé!
+handmade_product,Các mặt hàng thủ công tại cửa hàng rất tinh xảo. 😊
+handmade_product,Các sản phẩm thủ công tại cửa hàng rất tinh xảo.
+limited_edition_product,"Hiện có một số món hàng phiên bản giới hạn, bạn muốn xem không? nhé!"
+limited_edition_product,"Hiện có một số mặt hàng phiên bản giới hạn, bạn muốn xem không? nhé!"
+limited_edition_product,"Hiện có một số đồ phiên bản giới hạn, bạn muốn xem không? 😊"
+limited_edition_product,"Hiện có một số sản phẩm phiên bản giới hạn, bạn muốn xem không?"
+limited_edition_product,"Hiện có một số mặt hàng phiên bản giới hạn, bạn muốn xem không? 😊"
+personalized_message,Bạn có thể thêm lời nhắn cá nhân cho món hàng.!
+personalized_message,Bạn có thể thêm lời nhắn cá nhân cho đồ.!
+personalized_message,Bạn có thể thêm lời nhắn cá nhân cho sản phẩm.
+personalized_message,Bạn có thể thêm lời nhắn cá nhân cho đồ. nhé!
+personalized_message,Bạn có thể thêm lời nhắn cá nhân cho mặt hàng. nhé!
+gift_pack_combo,Chúng tôi có các combo tặng phẩm tặng kết hợp nhiều món hàng.!
+gift_pack_combo,Chúng tôi có các combo món quà tặng kết hợp nhiều món hàng. nhé!
+gift_pack_combo,Chúng tôi có các combo quà tặng kết hợp nhiều sản phẩm.
+gift_pack_combo,Chúng tôi có các combo món quà tặng kết hợp nhiều món hàng.!
+gift_pack_combo,Chúng tôi có các combo món quà tặng kết hợp nhiều món hàng. 😊
+birthday_surprise_package,Mình có gợi ý combo quà sinh nhật bất ngờ.
+birthday_surprise_package,Mình có gợi ý combo tặng phẩm sinh nhật bất ngờ. 😊
+birthday_surprise_package,Mình có gợi ý combo món quà sinh nhật bất ngờ. nhé!
+birthday_surprise_package,Mình có gợi ý combo món quà sinh nhật bất ngờ.!
+birthday_surprise_package,Mình có gợi ý combo quà tặng sinh nhật bất ngờ. 😊
+birthday_surprise_package,Mình có gợi ý combo tặng phẩm sinh nhật bất ngờ. nhé!
+festival_special_pack,"Combo đặc biệt cho các dịp lễ hội như Tết, Giáng sinh.!"
+festival_special_pack,"Combo đặc biệt cho các dịp lễ hội như Tết, Giáng sinh."
+festival_special_pack,"Combo đặc biệt cho các dịp lễ hội như Tết, Giáng sinh. 😊"
+festival_special_pack,"Combo đặc biệt cho các dịp lễ hội như Tết, Giáng sinh. nhé!"
+seasonal_collection,"Hiện có bộ sưu tập theo mùa, bạn muốn xem không? nhé!"
+seasonal_collection,"Hiện có bộ sưu tập theo mùa, bạn muốn xem không?!"
+seasonal_collection,"Hiện có bộ sưu tập theo mùa, bạn muốn xem không? 😊"
+seasonal_collection,"Hiện có bộ sưu tập theo mùa, bạn muốn xem không?"
+online_exclusive_offer,Có một số sản phẩm chỉ bán online với giá ưu đãi.
+online_exclusive_offer,Có một số món hàng chỉ bán online với mức giá ưu đãi.!
+online_exclusive_offer,Có một số mặt hàng chỉ bán online với chi phí ưu đãi.!
+online_exclusive_offer,Có một số mặt hàng chỉ bán online với chi phí ưu đãi. nhé!
+online_exclusive_offer,Có một số đồ chỉ bán online với mức giá ưu đãi. 😊
+membership_reward_point,Khách hàng thân thiết sẽ nhận điểm thưởng khi mua hàng.
+membership_reward_point,Khách hàng thân thiết sẽ nhận điểm thưởng khi mua sắm hàng.!
+membership_reward_point,Khách hàng thân thiết sẽ nhận điểm thưởng khi mua sắm hàng. 😊
+membership_reward_point,Khách hàng thân thiết sẽ nhận điểm thưởng khi tậu hàng. nhé!
+membership_reward_point,Khách hàng thân thiết sẽ nhận điểm thưởng khi mua sắm hàng. nhé!
+flash_sale_notification,"Hiện đang có flash sale, bạn muốn mình gửi thông tin không?!"
+flash_sale_notification,"Hiện đang có flash sale, bạn muốn mình gửi thông tin không? 😊"
+flash_sale_notification,"Hiện đang có flash sale, bạn muốn mình gửi thông tin không?"
+gift_set_recommendation,"Mình gợi ý các set tặng phẩm được phối sẵn, đẹp mắt và tiện lợi. 😊"
+gift_set_recommendation,"Mình gợi ý các set quà được phối sẵn, đẹp mắt và tiện lợi."
+gift_set_recommendation,"Mình gợi ý các set tặng phẩm được phối sẵn, đẹp mắt và tiện lợi.!"
+gift_set_recommendation,"Mình gợi ý các set tặng phẩm được phối sẵn, đẹp mắt và tiện lợi. nhé!"
+gift_set_recommendation,"Mình gợi ý các set món quà được phối sẵn, đẹp mắt và tiện lợi. nhé!"
+handcraft_tutorials,Bạn có muốn xem hướng dẫn làm đồ thủ công tại nhà?!
+handcraft_tutorials,Bạn có muốn xem hướng dẫn làm đồ thủ công tại nhà? 😊
+handcraft_tutorials,Bạn có muốn xem hướng dẫn làm đồ thủ công tại nhà?
+handcraft_tutorials,Bạn có muốn xem hướng dẫn làm đồ thủ công tại nhà? nhé!
+gift_inspiration_for_couples,Gợi ý tặng phẩm tặng dành cho các cặp đôi yêu nhau. 😊
+gift_inspiration_for_couples,Gợi ý món quà tặng dành cho các cặp đôi yêu nhau.!
+gift_inspiration_for_couples,Gợi ý quà tặng tặng dành cho các cặp đôi yêu nhau.!
+gift_inspiration_for_couples,Gợi ý quà tặng dành cho các cặp đôi yêu nhau.
+gift_inspiration_for_couples,Gợi ý quà tặng tặng dành cho các cặp đôi yêu nhau. nhé!
+gift_inspiration_for_parents,Gợi ý quà tặng tặng ý nghĩa dành cho bố mẹ. nhé!
+gift_inspiration_for_parents,Gợi ý quà tặng tặng ý nghĩa dành cho bố mẹ. 😊
+gift_inspiration_for_parents,Gợi ý quà tặng ý nghĩa dành cho bố mẹ.
+gift_inspiration_for_parents,Gợi ý tặng phẩm tặng ý nghĩa dành cho bố mẹ. 😊
+gift_inspiration_for_parents,Gợi ý món quà tặng ý nghĩa dành cho bố mẹ.!
+gift_inspiration_for_friends,"Gợi ý tặng phẩm tặng vui nhộn, thân thiện cho bạn bè.!"
+gift_inspiration_for_friends,"Gợi ý món quà tặng vui nhộn, thân thiện cho bạn bè. 😊"
+gift_inspiration_for_friends,"Gợi ý quà tặng tặng vui nhộn, thân thiện cho bạn bè. 😊"
+gift_inspiration_for_friends,"Gợi ý quà tặng vui nhộn, thân thiện cho bạn bè."
+gift_inspiration_for_friends,"Gợi ý món quà tặng vui nhộn, thân thiện cho bạn bè. nhé!"
+gift_inspiration_for_children,Gợi ý tặng phẩm tặng an toàn và dễ thương cho trẻ em. 😊
+gift_inspiration_for_children,Gợi ý quà tặng tặng an toàn và dễ thương cho trẻ em. 😊
+gift_inspiration_for_children,Gợi ý tặng phẩm tặng an toàn và dễ thương cho trẻ em.!
+gift_inspiration_for_children,Gợi ý món quà tặng an toàn và dễ thương cho trẻ em.!
+gift_inspiration_for_children,Gợi ý quà tặng an toàn và dễ thương cho trẻ em.
+special_requests_handling,Chúng tôi có thể xử lý yêu cầu đặc biệt cho sản phẩm.
+special_requests_handling,Chúng tôi có thể xử lý yêu cầu đặc biệt cho đồ. 😊
+special_requests_handling,Chúng tôi có thể xử lý yêu cầu đặc biệt cho đồ. nhé!
+special_requests_handling,Chúng tôi có thể xử lý yêu cầu đặc biệt cho mặt hàng. nhé!
+special_requests_handling,Chúng tôi có thể xử lý yêu cầu đặc biệt cho mặt hàng. 😊
+special_requests_handling,Chúng tôi có thể xử lý yêu cầu đặc biệt cho đồ.!
+delivery_time_estimate,Thời gian giao hàng ước tính từ 2-5 ngày làm việc.!
+delivery_time_estimate,Thời gian giao hàng ước tính từ 2-5 ngày làm việc.
+delivery_time_estimate,Thời gian giao hàng ước tính từ 2-5 ngày làm việc. 😊
+express_delivery_option,"Chúng tôi có tùy chọn giao nhanh, bạn muốn thử không? nhé!"
+express_delivery_option,"Chúng tôi có tùy chọn giao nhanh, bạn muốn thử không?!"
+express_delivery_option,"Chúng tôi có tùy chọn giao nhanh, bạn muốn thử không?"
+gift_wrapping_custom_design,Bạn muốn thiết kế gói món quà theo phong cách riêng? 😊
+gift_wrapping_custom_design,Bạn muốn thiết kế gói món quà theo phong cách riêng?!
+gift_wrapping_custom_design,Bạn muốn thiết kế gói món quà theo phong cách riêng? nhé!
+gift_wrapping_custom_design,Bạn muốn thiết kế gói quà theo phong cách riêng?
+gift_wrapping_custom_design,Bạn muốn thiết kế gói tặng phẩm theo phong cách riêng?!
+gift_wrapping_custom_design,Bạn muốn thiết kế gói tặng phẩm theo phong cách riêng? 😊
+return_policy_extended,Bạn có thể trả hàng trong 14 ngày nếu mặt hàng không vừa ý.!
+return_policy_extended,Bạn có thể trả hàng trong 14 ngày nếu sản phẩm không vừa ý.
+return_policy_extended,Bạn có thể trả hàng trong 14 ngày nếu món hàng không vừa ý. 😊
+return_policy_extended,Bạn có thể trả hàng trong 14 ngày nếu mặt hàng không vừa ý. nhé!
+international_shipping_info,"Chúng tôi có giao hàng quốc tế, bạn muốn gửi tới quốc gia nào? 😊"
+international_shipping_info,"Chúng tôi có giao hàng quốc tế, bạn muốn gửi tới quốc gia nào? nhé!"
+international_shipping_info,"Chúng tôi có giao hàng quốc tế, bạn muốn gửi tới quốc gia nào?!"
+international_shipping_info,"Chúng tôi có giao hàng quốc tế, bạn muốn gửi tới quốc gia nào?"
+gift_for_corporate_clients,"Bạn muốn sắm tặng phẩm cho khách hàng doanh nghiệp, mình có gợi ý.!"
+gift_for_corporate_clients,"Bạn muốn tậu tặng phẩm cho khách hàng doanh nghiệp, mình có gợi ý. 😊"
+gift_for_corporate_clients,"Bạn muốn tậu quà tặng cho khách hàng doanh nghiệp, mình có gợi ý.!"
+gift_for_corporate_clients,"Bạn muốn tậu tặng phẩm cho khách hàng doanh nghiệp, mình có gợi ý. nhé!"
+gift_for_corporate_clients,"Bạn muốn mua quà cho khách hàng doanh nghiệp, mình có gợi ý."
+custom_order_deadline,"Để đặt hàng theo yêu cầu, bạn nên đặt trước 7 ngày."
+custom_order_deadline,"Để đặt hàng theo yêu cầu, bạn nên đặt trước 7 ngày. 😊"
+custom_order_deadline,"Để đặt hàng theo yêu cầu, bạn nên đặt trước 7 ngày.!"
+custom_order_deadline,"Để đặt hàng theo yêu cầu, bạn nên đặt trước 7 ngày. nhé!"
+holiday_special_discount,"Có chương trình giảm mức giá đặc biệt cho ngày lễ, bạn muốn xem không?!"
+holiday_special_discount,"Có chương trình giảm mức giá đặc biệt cho ngày lễ, bạn muốn xem không? 😊"
+holiday_special_discount,"Có chương trình giảm chi phí đặc biệt cho ngày lễ, bạn muốn xem không? nhé!"
+holiday_special_discount,"Có chương trình giảm mức giá đặc biệt cho ngày lễ, bạn muốn xem không? nhé!"
+holiday_special_discount,"Có chương trình giảm giá đặc biệt cho ngày lễ, bạn muốn xem không?"
+store_loyalty_points,Bạn có thể tích lũy điểm cho mỗi đơn hàng. nhé!
+store_loyalty_points,Bạn có thể tích lũy điểm cho mỗi đơn hàng. 😊
+store_loyalty_points,Bạn có thể tích lũy điểm cho mỗi đơn hàng.!
+store_loyalty_points,Bạn có thể tích lũy điểm cho mỗi đơn hàng.
+product_demo_available,Bạn có thể thử món hàng trực tiếp tại cửa hàng.!
+product_demo_available,Bạn có thể thử đồ trực tiếp tại cửa hàng. nhé!
+product_demo_available,Bạn có thể thử mặt hàng trực tiếp tại cửa hàng. nhé!
+product_demo_available,Bạn có thể thử sản phẩm trực tiếp tại cửa hàng.
+product_demo_available,Bạn có thể thử món hàng trực tiếp tại cửa hàng. nhé!
+product_demo_available,Bạn có thể thử đồ trực tiếp tại cửa hàng. 😊
+gift_for_teachers,Mình có vài gợi ý món quà tặng dành cho giá tiềno viên. nhé!
+gift_for_teachers,Mình có vài gợi ý tặng phẩm tặng dành cho mức giáo viên. nhé!
+gift_for_teachers,Mình có vài gợi ý quà tặng tặng dành cho giá tiềno viên. 😊
+gift_for_teachers,Mình có vài gợi ý món quà tặng dành cho mức giáo viên. nhé!
+gift_for_teachers,Mình có vài gợi ý quà tặng dành cho giáo viên.
+gift_for_teachers,Mình có vài gợi ý tặng phẩm tặng dành cho mức giáo viên.!
+gift_for_students,"Món quà tặng ý nghĩa cho học sinh, sinh viên.!"
+gift_for_students,"Món quà tặng ý nghĩa cho học sinh, sinh viên. nhé!"
+gift_for_students,"Món quà ý nghĩa cho học sinh, sinh viên."
+gift_for_students,"Món món quà ý nghĩa cho học sinh, sinh viên.!"
+gift_for_students,"Món món quà ý nghĩa cho học sinh, sinh viên. 😊"
+gift_for_students,"Món quà tặng ý nghĩa cho học sinh, sinh viên. 😊"
+gift_for_travelers,"Gợi ý món quà dành cho người thích đi du lịch, tiện lợi và nhỏ gọn. 😊"
+gift_for_travelers,"Gợi ý quà tặng dành cho người thích đi du lịch, tiện lợi và nhỏ gọn. nhé!"
+gift_for_travelers,"Gợi ý quà tặng dành cho người thích đi du lịch, tiện lợi và nhỏ gọn.!"
+gift_for_travelers,"Gợi ý tặng phẩm dành cho người thích đi du lịch, tiện lợi và nhỏ gọn. 😊"
+gift_for_travelers,"Gợi ý quà dành cho người thích đi du lịch, tiện lợi và nhỏ gọn."
+gift_for_art_lovers,"Nếu họ yêu nghệ thuật, bạn có thể chọn các món hàng trang trí đẹp mắt. 😊"
+gift_for_art_lovers,"Nếu họ yêu nghệ thuật, bạn có thể chọn các đồ trang trí đẹp mắt. 😊"
+gift_for_art_lovers,"Nếu họ yêu nghệ thuật, bạn có thể chọn các mặt hàng trang trí đẹp mắt. 😊"
+gift_for_art_lovers,"Nếu họ yêu nghệ thuật, bạn có thể chọn các mặt hàng trang trí đẹp mắt. nhé!"
+gift_for_art_lovers,"Nếu họ yêu nghệ thuật, bạn có thể chọn các sản phẩm trang trí đẹp mắt."
+gift_for_art_lovers,"Nếu họ yêu nghệ thuật, bạn có thể chọn các mặt hàng trang trí đẹp mắt.!"
+gift_for_collectors,"Dành cho người sưu tập, các phiên bản giới hạn sẽ phù hợp. nhé!"
+gift_for_collectors,"Dành cho người sưu tập, các phiên bản giới hạn sẽ phù hợp. 😊"
+gift_for_collectors,"Dành cho người sưu tập, các phiên bản giới hạn sẽ phù hợp.!"
+gift_for_collectors,"Dành cho người sưu tập, các phiên bản giới hạn sẽ phù hợp."
+gift_for_couples,Gợi ý quà tặng lãng mạn cho các cặp đôi.
+gift_for_couples,Gợi ý tặng phẩm tặng lãng mạn cho các cặp đôi.!
+gift_for_couples,Gợi ý quà tặng tặng lãng mạn cho các cặp đôi. 😊
+gift_for_couples,Gợi ý món quà tặng lãng mạn cho các cặp đôi. 😊
+gift_for_couples,Gợi ý quà tặng tặng lãng mạn cho các cặp đôi.!
+gift_for_anniversary,Gợi ý quà kỷ niệm ngày quan trọng.
+gift_for_anniversary,Gợi ý món quà kỷ niệm ngày quan trọng.!
+gift_for_anniversary,Gợi ý tặng phẩm kỷ niệm ngày quan trọng. 😊
+gift_for_anniversary,Gợi ý tặng phẩm kỷ niệm ngày quan trọng.!
+special_event_promotion,Hiện đang có khuyến mãi cho các sự kiện đặc biệt.
+special_event_promotion,Hiện đang có khuyến mãi cho các sự kiện đặc biệt. 😊
+special_event_promotion,Hiện đang có khuyến mãi cho các sự kiện đặc biệt. nhé!
+special_event_promotion,Hiện đang có khuyến mãi cho các sự kiện đặc biệt.!
+gift_for_festival,"Quà tặng dành cho các dịp lễ hội: Tết, Giáng sinh, Halloween...!"
+gift_for_festival,"Quà tặng dành cho các dịp lễ hội: Tết, Giáng sinh, Halloween... 😊"
+gift_for_festival,"Quà tặng dành cho các dịp lễ hội: Tết, Giáng sinh, Halloween..."
+gift_for_festival,"Quà tặng dành cho các dịp lễ hội: Tết, Giáng sinh, Halloween... nhé!"
+eco_packaging_option,Bạn có muốn chọn gói quà thân thiện môi trường?
+eco_packaging_option,Bạn có muốn chọn gói quà tặng thân thiện môi trường?!
+eco_packaging_option,Bạn có muốn chọn gói quà tặng thân thiện môi trường? 😊
+eco_packaging_option,Bạn có muốn chọn gói món quà thân thiện môi trường? 😊
+eco_packaging_option,Bạn có muốn chọn gói món quà thân thiện môi trường? nhé!
+eco_packaging_option,Bạn có muốn chọn gói món quà thân thiện môi trường?!
+handmade_packaging_option,Gói quà tặng thủ công tinh xảo. nhé!
+handmade_packaging_option,Gói món quà thủ công tinh xảo. 😊
+handmade_packaging_option,Gói quà tặng thủ công tinh xảo.!
+handmade_packaging_option,Gói món quà thủ công tinh xảo.!
+handmade_packaging_option,Gói quà thủ công tinh xảo.
+handmade_packaging_option,Gói tặng phẩm thủ công tinh xảo. 😊
+product_recommendation_based_on_interest,Mình có thể gợi ý sản phẩm dựa trên sở thích của bạn.
+product_recommendation_based_on_interest,Mình có thể gợi ý đồ dựa trên sở thích của bạn.!
+product_recommendation_based_on_interest,Mình có thể gợi ý mặt hàng dựa trên sở thích của bạn.!
+product_recommendation_based_on_interest,Mình có thể gợi ý mặt hàng dựa trên sở thích của bạn. nhé!
+product_recommendation_based_on_interest,Mình có thể gợi ý đồ dựa trên sở thích của bạn. nhé!
+new_product_alert,"Sản phẩm mới vừa về, bạn có muốn xem không?!"
+new_product_alert,"Sản phẩm mới vừa về, bạn có muốn xem không?"
+new_product_alert,"Sản phẩm mới vừa về, bạn có muốn xem không? nhé!"
+new_product_alert,"Sản phẩm mới vừa về, bạn có muốn xem không? 😊"
+special_discount_code,Bạn có thể sử dụng mã giảm chi phí đặc biệt này khi thanh toán. nhé!
+special_discount_code,Bạn có thể sử dụng mã giảm mức giá đặc biệt này khi thanh toán.!
+special_discount_code,Bạn có thể sử dụng mã giảm giá đặc biệt này khi thanh toán.
+special_discount_code,Bạn có thể sử dụng mã giảm mức giá đặc biệt này khi thanh toán. nhé!
+gift_inspiration_for_relatives,"Gợi ý quà tặng tặng cho họ hàng, anh chị em, cháu chắt... nhé!"
+gift_inspiration_for_relatives,"Gợi ý tặng phẩm tặng cho họ hàng, anh chị em, cháu chắt... 😊"
+gift_inspiration_for_relatives,"Gợi ý quà tặng tặng cho họ hàng, anh chị em, cháu chắt... 😊"
+gift_inspiration_for_relatives,"Gợi ý quà tặng cho họ hàng, anh chị em, cháu chắt..."
+gift_inspiration_for_relatives,"Gợi ý quà tặng tặng cho họ hàng, anh chị em, cháu chắt...!"
+gift_for_anniversary_couple,"Gợi ý món quà cho cặp đôi kỷ niệm 1 năm, 5 năm, 10 năm... 😊"
+gift_for_anniversary_couple,"Gợi ý món quà cho cặp đôi kỷ niệm 1 năm, 5 năm, 10 năm... nhé!"
+gift_for_anniversary_couple,"Gợi ý quà tặng cho cặp đôi kỷ niệm 1 năm, 5 năm, 10 năm... 😊"
+gift_for_anniversary_couple,"Gợi ý quà cho cặp đôi kỷ niệm 1 năm, 5 năm, 10 năm..."
+gift_for_anniversary_couple,"Gợi ý quà tặng cho cặp đôi kỷ niệm 1 năm, 5 năm, 10 năm... nhé!"
+gift_for_wedding_guests,Gợi ý quà tặng tặng cho khách mời trong lễ cưới. nhé!
+gift_for_wedding_guests,Gợi ý tặng phẩm tặng cho khách mời trong lễ cưới. nhé!
+gift_for_wedding_guests,Gợi ý quà tặng cho khách mời trong lễ cưới.
+gift_for_wedding_guests,Gợi ý món quà tặng cho khách mời trong lễ cưới. nhé!
+gift_for_wedding_guests,Gợi ý quà tặng tặng cho khách mời trong lễ cưới.!
+gift_for_wedding_guests,Gợi ý tặng phẩm tặng cho khách mời trong lễ cưới. 😊
+gift_for_company_event,Gợi ý quà tặng tặng cho sự kiện công ty. nhé!
+gift_for_company_event,Gợi ý tặng phẩm tặng cho sự kiện công ty.!
+gift_for_company_event,Gợi ý tặng phẩm tặng cho sự kiện công ty. nhé!
+gift_for_company_event,Gợi ý quà tặng cho sự kiện công ty.
+gift_for_company_event,Gợi ý quà tặng tặng cho sự kiện công ty. 😊
+gift_for_company_event,Gợi ý món quà tặng cho sự kiện công ty. nhé!
+gift_for_team_building,Quà tặng cho đồng nghiệp trong hoạt động team building. 😊
+gift_for_team_building,Quà tặng cho đồng nghiệp trong hoạt động team building.
+gift_for_team_building,Quà tặng cho đồng nghiệp trong hoạt động team building. nhé!
+gift_for_team_building,Quà tặng cho đồng nghiệp trong hoạt động team building.!
+gift_for_special_occasions,"Gợi ý tặng phẩm cho các dịp đặc biệt như khai trương, tốt nghiệp, thăng chức... nhé!"
+gift_for_special_occasions,"Gợi ý quà cho các dịp đặc biệt như khai trương, tốt nghiệp, thăng chức..."
+gift_for_special_occasions,"Gợi ý quà tặng cho các dịp đặc biệt như khai trương, tốt nghiệp, thăng chức...!"
+gift_for_special_occasions,"Gợi ý tặng phẩm cho các dịp đặc biệt như khai trương, tốt nghiệp, thăng chức...!"
+intent,response
+intent,response nhé!
+intent,response 😊
+intent,response!
+greeting,Chào bạn! Mình có thể giúp gì nè 😊 nhé!
+greeting,Chào bạn! Mình có thể giúp gì nè 😊
+greeting,Chào bạn! Mình có thể giúp gì nè 😊 😊
+greeting,Chào bạn! Mình có thể giúp gì nè 😊!
+thanks,Rất vui khi được giúp bạn! nhé!
+thanks,Rất vui khi được giúp bạn!!
+thanks,Rất vui khi được giúp bạn!
+thanks,Rất vui khi được giúp bạn! 😊
+goodbye,Hẹn gặp lại nhé 👋 nhé!
+goodbye,Hẹn gặp lại nhé 👋!
+goodbye,Hẹn gặp lại nhé 👋
+goodbye,Hẹn gặp lại nhé 👋 😊
+find_product,Đây là những mặt hàng mình tìm được nè 💎 😊
+find_product,Đây là những đồ mình tìm được nè 💎!
+find_product,Đây là những sản phẩm mình tìm được nè 💎
+find_product,Đây là những món hàng mình tìm được nè 💎 nhé!
+find_product,Đây là những mặt hàng mình tìm được nè 💎 nhé!
+unknown,Mình chưa hiểu lắm bạn nói rõ hơn được không?!
+unknown,Mình chưa hiểu lắm bạn nói rõ hơn được không? nhé!
+unknown,Mình chưa hiểu lắm bạn nói rõ hơn được không? 😊
+unknown,Mình chưa hiểu lắm bạn nói rõ hơn được không?

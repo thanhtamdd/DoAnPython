@@ -1,0 +1,95 @@
+text,intent
+Xin chào,greeting
+Chào bạn,greeting
+Chào shop,greeting
+Hello,greeting
+Hi,greeting
+Có ai ở đây không,greeting
+Shop ơi,greeting
+Chào buổi sáng,greeting
+Chào buổi chiều,greeting
+Rất vui được gặp bạn,greeting
+Shop có rảnh không,greeting
+Ê bạn,greeting
+Chào cậu,greeting
+Hey,greeting
+Shop ơi có online không,greeting
+Xin phép hỏi chút,greeting
+Cho mình hỏi,greeting
+Tôi muốn xem vòng tay,find_product
+Shop có vòng tay không,find_product
+Cho xem nhẫn bạc,find_product
+Tôi cần tìm quà lưu niệm,find_product
+Có móc khóa không,find_product
+Có gấu bông không,find_product
+Tôi muốn xem túi xách,find_product
+Có dây chuyền nữ không,find_product
+Có bán vòng cổ không,find_product
+Shop có quà sinh nhật không,find_product
+Cho mình xem ly sứ,find_product
+Có đồng hồ không,find_product
+Tôi cần tìm quà cho bé gái,find_product
+Tôi muốn mua quà Valentine,find_product
+Có áo đôi không,find_product
+Shop có hàng handmade không,find_product
+Giá bao nhiêu vậy,ask_price
+Cái này bao nhiêu tiền,ask_price
+Vòng tay này giá bao nhiêu,ask_price
+Nhẫn bạc bao nhiêu,ask_price
+Ly sứ mèo giá thế nào,ask_price
+Bao nhiêu một cái vậy,ask_price
+Sản phẩm này giá sao vậy,ask_price
+Cho hỏi giá với,ask_price
+Giá hiện tại là bao nhiêu,ask_price
+Có giảm giá không,ask_price
+Bao nhiêu tiền một đôi vậy,ask_price
+Giá từng món là bao nhiêu,ask_price
+Shop bán bao nhiêu vậy,ask_price
+Tư vấn giúp tôi quà cho bạn gái,recommend_gift
+Tôi cần quà tặng sinh nhật mẹ,recommend_gift
+Tôi nên mua gì tặng người yêu,recommend_gift
+Gợi ý quà tặng cho bạn bè đi,recommend_gift
+Có món nào dễ thương không,recommend_gift
+Tôi muốn tặng quà cho con gái,recommend_gift
+Tư vấn quà cho đồng nghiệp nữ,recommend_gift
+Quà nào hợp cho người yêu mới quen,recommend_gift
+Tặng quà cho bạn thân nên chọn gì,recommend_gift
+Gợi ý giúp mình vài món quà đi,recommend_gift
+Mua gì tặng thầy cô thì hợp,recommend_gift
+Có món nào ý nghĩa không,recommend_gift
+Giúp tôi chọn quà Valentine đi,recommend_gift
+Tôi đang phân vân không biết mua gì,recommend_gift
+Cảm ơn nhé,thanks
+Cảm ơn shop,thanks
+Ok cảm ơn nhiều,thanks
+Cảm ơn bạn nha,thanks
+Rất cảm ơn bạn,thanks
+Cảm ơn vì đã giúp tôi,thanks
+Cảm ơn đã tư vấn,thanks
+Cảm ơn nhiều nha,thanks
+Mình cảm ơn nhé,thanks
+Cảm ơn shop dễ thương quá,thanks
+Tạm biệt,goodbye
+Bye bye,goodbye
+Hẹn gặp lại,goodbye
+Mình đi đây,goodbye
+Tôi thoát đây nhé,goodbye
+Tạm biệt shop,goodbye
+Gặp lại sau nhé,goodbye
+Hẹn gặp lại bạn sau,goodbye
+Thôi tôi off đây,goodbye
+Chào tạm biệt nha,goodbye
+intent,text
+greeting,xin chào
+greeting,chào bạn
+thanks,cảm ơn bạn
+goodbye,tạm biệt
+find_product,tôi muốn mua sản phẩm
+find_product,giá ly sứ bao nhiêu
+find_product,bạn có bán túi canvas không
+find_product,cho tôi xem sổ tay
+find_product,có món quà nào cho sinh nhật không
+unknown,ờ
+unknown,hả
+unknown,là sao
+
